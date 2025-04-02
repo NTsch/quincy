@@ -1,0 +1,2472 @@
+﻿<?xml version="1.0"?>
+<!--<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">-->
+<ead>
+    <eadheader>
+        <eadid>FRAD021_000002216</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>17 H. – Abbaye de Quincy</titleproper>
+                <subtitle>Répertoire numérique de la sous-série 17 H</subtitle>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Archives départementales de la Côte-d'Or</publisher>
+                <address>
+                    <addressline>Dijon</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Instrument de recherche produit au moyen du logiciel Arkhéïa Aide au
+                classement de la société Anaphore sarl, version 6-2.3 du <date calendar="gregorian"
+                    era="ce" normal="2015-04-27">lundi 27 avril 2015</date>. Date de l'export :
+                    <date calendar="gregorian" era="ce" normal="2015-05-28">jeudi 28 mai 2015</date>
+                (16:43 h). Instrument de recherche encodé en 2015 par la société Fontaine et Fils
+                Archives Service.</creation>
+            <langusage>Instrument de recherche rédigé en <language langcode="fre" scriptcode="Latn"
+                    >français</language>
+            </langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid label="Cotes extrêmes">17 H art. 1-122 ; Inventaire art. 285</unitid>
+            <unittitle label="Intitulé de l'unité documentaire">17 H. – Abbaye de Quincy</unittitle>
+            <unitdate label="Date de l'unité documentaire">XIIe s.-[XVIIIe]</unitdate>
+            <physdesc label="Description physique">
+                <genreform source="liste-typedocAC">Document d'archives</genreform>
+                <extent type="unités description" label="Nombre d'unités de niveau bas">122</extent>
+                <lb/>
+            </physdesc>
+            <repository>Archives départementales de la Côte-d'Or</repository>
+        </did>
+        <controlaccess>
+            <head>Descripteurs</head>
+            <genreform type="typir">Recherche détaillée</genreform>
+        </controlaccess>
+        <dsc type="othertype">
+            <c id="tt1-1">
+                <!--titre niveau 1-->
+                <did>
+                    <unitid label="Cotes extrêmes">17 H 1-4</unitid>
+                    <unittitle type="titre" label="Intitulé de l'unité documentaire"
+                        >Généralités</unittitle>
+                    <unitdate label="Date de l'unité documentaire" normal="1389/1765"
+                        >1389-1765</unitdate>
+                </did>
+                <c id="de-1" level="file">
+                    <did>
+                        <unitid label="Cotes extrêmes">17 H 1</unitid>
+                        <unittitle label="Intitulé de l'unité documentaire">Main levée du duc sur
+                            les biens de l'abbaye saisis pour le refus de celle-ci de contribuer aux
+                            frais de l'expédition contre le duc de 1389 Gueldre.</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1389">1389</unitdate>
+                    </did>
+                    <accessrestrict>
+                        <p>
+                            <emph render="bold">Statut juridique</emph>
+                        </p>
+                        <p> </p>
+                    </accessrestrict>
+                </c>
+                <c id="de-2" level="file">
+                    <did>
+                        <unitid label="Cotes extrêmes">17 H 2</unitid>
+                        <unittitle label="Intitulé de l'unité documentaire">Aliénations :
+                            récapitulation pour les biens sis aux diocèses de Langres et
+                            d'Autun.</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1642">1642</unitdate>
+                    </did>
+                    <accessrestrict>
+                        <p>
+                            <emph render="bold">Statut juridique</emph>
+                        </p>
+                        <p> </p>
+                    </accessrestrict>
+                </c>
+                <c id="de-3" level="file">
+                    <did>
+                        <unitid label="Cotes extrêmes">17 H 3</unitid>
+                        <unittitle label="Intitulé de l'unité documentaire">Procédures de l'abbaye
+                            contre l'évêque d'Autun, de l'abbé contre les religieux.</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1482/1765"
+                            >1482-1765</unitdate>
+                    </did>
+                    <accessrestrict>
+                        <p>
+                            <emph render="bold">Statut juridique</emph>
+                        </p>
+                        <p> </p>
+                    </accessrestrict>
+                </c>
+                <c id="de-4" level="file">
+                    <did>
+                        <unitid label="Cotes extrêmes">17 H 4</unitid>
+                        <unittitle label="Intitulé de l'unité documentaire">Décharge du ban et
+                            arrière-ban (pour les domaines de l'abbaye sis en
+                            Bourgogne).</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1689">1689</unitdate>
+                    </did>
+                    <accessrestrict>
+                        <p>
+                            <emph render="bold">Statut juridique</emph>
+                        </p>
+                        <p> </p>
+                    </accessrestrict>
+                </c>
+            </c>
+            <c id="tt1-2">
+                <!--titre niveau 1-->
+                <did>
+                    <unitid label="Cotes extrêmes">17 H 5-24, Inventaire 285, 17 H 26-122</unitid>
+                    <unittitle type="titre" label="Intitulé de l'unité documentaire"
+                        >Domaine</unittitle>
+                    <unitdate label="Date de l'unité documentaire" normal="1101/1800">XIIe-XVIIIe
+                        siècles</unitdate>
+                </did>
+                <c id="tt2-1">
+                    <!--titre niveau 2-->
+                    <did>
+                        <unitid label="Cotes extrêmes">17 H 5</unitid>
+                        <unittitle type="titre" label="Intitulé de l'unité documentaire"
+                            >Ampilly-le-Sec</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1187/1205"
+                            >1187-1205</unitdate>
+                    </did>
+                    <c id="de-5" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 5</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Droit
+                                d'usage.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1187/1205"
+                                >1187-1205</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Donation par le duc Hugues III des pâturages d'Ampilly ainsi que de
+                                l'usage de l'eau de la Seine, pour les besoins de la grange de Nesle
+                                (1187) (PETIT, n° 772) ; ratification par le duc Eudes III (1205)
+                                (PETIT, n° 1103).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                </c>
+                <c id="tt2-2">
+                    <!--titre niveau 2-->
+                    <did>
+                        <unitid label="Cotes extrêmes">17 H 6-20</unitid>
+                        <unittitle type="titre" label="Intitulé de l'unité documentaire"
+                            >Ampilly-les-Bordes : granges de la Folie et de Meursauges</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1101/1745">XIIe
+                            siècle-1745</unitdate>
+                    </did>
+                    <c id="de-6" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 6</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">La Folie. -
+                                Concession à plusieurs vies puis à perpétuité ; bail à
+                                cens.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1460/1609"
+                                >1460-1609</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-7" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 7</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Meursauges. -
+                                Extrait du terrier de Semond de 1605.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1690"
+                                >1690</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-8" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 8</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire"
+                                >Acquisitions.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1190/1257"
+                                >1190-1257</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Donation par Savary de Fontaines d'une redevance à Quemigny et
+                                abandon par Anseau de Duesme de tout droit sur Meursauges, Quemigny,
+                                «Passoual» [commune d'Ampilly-les-Bordes] et Saint-Mard (1190)
+                                (PETIT, n° 828) ; donation par Guillaume de Montlay et son gendre
+                                Etienne d'un droit de pêche et d'un droit de pâturage à Quemigny,
+                                pour l'usage de la grange de Meursauges (1190) ; donation par Simon
+                                de Rochefort et sa femme Béatrix d'une redevance (1216, 3
+                                notifications, dont l'une par le duc Eudes III) (PETIT, n° 1375) ;
+                                donation par Geoffroy, fils de Manassès de Brémur (1218) ; donation
+                                par Hugues de Bissey d'un homme, d'une redevance à Meursauges et de
+                                pâturages à Cosne et Quemigny (1225) ; donation par Robert, sire de
+                                Tanlay, et sa femme Marguerite d'une redevance due sur Meursauges
+                                (1257, 2 actes) (PETIT, n° 2922).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-9" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 9</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Accords [fin XIIe
+                                s.-début XIIIe s.].</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1101/1300"
+                                >XIIe-XIIIe siècles</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Composition avec Pothières au sujet de la vente d'une redevance
+                                (entre 1216 et 1220, 2 actes) ; abandon des revendications d'Hugues
+                                desuper aquam et sa femme Laurence (entre 1189 et 1223).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-10" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 10</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Amodiations de la
+                                grange : baux.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1523/1590"
+                                >1523-1590</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-11" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 11</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Amodiations : procès
+                                contre les habitants de Meursauges.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1690/1697"
+                                >1690-1697</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>A noter : « Mémoire instructif » sur la seigneurie de Meursauges
+                                (1691).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-12" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 12</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Bois : droits
+                                d'usage.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1206/1745"
+                                >1206-1745</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>A noter : Donation (dans le bois de Meursauges) par Renaud de Jors
+                                (1206) ; renonciation par Étienne et Gérard, frères, de Quemignerot
+                                (1238) ; accord avec Hervé, sire de Saint-Mard, et sa femme
+                                Marguerite (1246) (PETIT, n° 2555).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-13" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 13</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Bois de Chalonge :
+                                vente.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1576"
+                                >1576</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-14" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 14</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Bois :
+                                dégradations.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1608"
+                                >1608</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-15" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 15</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Cens et rentes :
+                                baux, reconnaissances.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1358/1678"
+                                >1358-1678</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Intéresse aussi Saint-Mard et La Folie. A noter : Bail de la maison
+                                de la perception des redevances (1668).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-16" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 16</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Cens : abandon et
+                                transformation en bail à ferme.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1677/1689"
+                                >1677-1689</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-17" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 17</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Rente de l'Étang de
+                                « Passoual » ou « Pessonaut » : vente entre particuliers, procès
+                                relatif à l'autorisation de vente, bail à cens,
+                                arrérages.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1597/1697"
+                                >1597-1697</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-18" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 18</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Dîmes : menace
+                                d'excommunication prononcée par l'évêque de Chalon-sur-Saône à
+                                l'encontre des prétentions de Flavigny.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1203"
+                                >1203</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-19" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 19</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Exposition des
+                                reliques de saint Honoré jadis à Quincy et conservées à Meursauges
+                                depuis les Guerres de religion.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1739"
+                                >1739</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-20" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 20</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Permission aux
+                                habitants de se clore et de se défendre.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1586/1587"
+                                >1586-1587</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                </c>
+                <c id="tt2-3">
+                    <!--titre niveau 2-->
+                    <did>
+                        <unitid label="Cotes extrêmes">17 H 21-22</unitid>
+                        <unittitle type="titre" label="Intitulé de l'unité documentaire"
+                            >Bellenod-sur-Seine : grange de la Borde</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1511/1740"
+                            >1511-1740</unitdate>
+                    </did>
+                    <c id="de-21" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 21</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Concession à
+                                plusieurs vies puis bail à cens et rente.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1511/1614"
+                                >1511-1614</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-22" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 22</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Redevances dues par
+                                les habitants : arpentage, rôle, procédure.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1661/1740"
+                                >[1661]-1740</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                </c>
+                <c id="tt2-4">
+                    <!--titre niveau 2-->
+                    <did>
+                        <unitid label="Cotes extrêmes">17 H 23</unitid>
+                        <unittitle type="titre" label="Intitulé de l'unité documentaire"
+                            >Chamesson</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1184/1195"
+                            >1184-1195</unitdate>
+                    </did>
+                    <c id="de-23" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 23</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Droit de
+                                pâturage.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1184/1195"
+                                >1184-1195</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Donation par Renaud Leticia et sa femme Sibille (1184) ; abandon de
+                                contestation par Anselme, chevalier de Asi [Aisey-sur-Seine ?],
+                                gendre du précédent (1195).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                </c>
+                <c id="tt2-5">
+                    <!--titre niveau 2-->
+                    <did>
+                        <unitid label="Cotes extrêmes">17 H 24</unitid>
+                        <unittitle type="titre" label="Intitulé de l'unité documentaire"
+                            >Coulmier-le-Sec</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1190/1237"
+                            >1190-1237</unitdate>
+                    </did>
+                    <c id="de-24" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 24</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire"
+                                >Acquisitions.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1190/1237"
+                                >1190-1237</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Donation par Mathieu et Arnould, frères, de Laignes, de droits de
+                                pâturage et d'usage (1190) ; confirmation par le duc Eudes III
+                                (1205) (PETIT, n° 1104). Donation par Guillaume, écuyer, de Nesle,
+                                d'un sessus (1237).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                        <bibliography>
+                            <head>Bibliographie</head>
+                            <p>Ms. seicius. Une exploitation rurale, d'après NIERMEYER, Mediae
+                                latinitatis lexicon minus, Leiden, 1984, p. 967-968.</p>
+                        </bibliography>
+                    </c>
+                </c>
+                <c id="tt2-6">
+                    <!--titre niveau 2-->
+                    <did>
+                        <unitid label="Cotes extrêmes">Inventaire 285, 17 H 26-28</unitid>
+                        <unittitle type="titre" label="Intitulé de l'unité documentaire">Griselles :
+                            ferme de Lornay</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1224/1800"
+                            >1224-XVIIIe siècles</unitdate>
+                    </did>
+                    <bioghist>
+                        <head>Biographie ou histoire</head>
+                        <p>À la fin de l'Ancien Régime, le domaine de Lornay comprend des biens
+                            situés également en Champagne, dans les communes de Griselles et de
+                            Laignes ; en Bourgogne, dans les communes de Marcenay et de
+                            Poinçon-lès-Larrey (grange du Loge).</p>
+                    </bioghist>
+                    <c id="de-25" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">Inventaire 285</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">« Inventaire des
+                                titres de Laignes et Marcenay, Lornay, Loge et Griselles qui se sont
+                                trouvés dans la grande armoire de Quincy, layette neuvième…» (XVIIIe
+                                s. [après 1710]).</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1701/1800">XVIIIe
+                                siècle</unitdate>
+                            <physdesc label="Description physique">
+                                <physfacet type="forme" label="Registre">Oui</physfacet>
+                                <lb/>
+                            </physdesc>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-26" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 26</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">État des redevances
+                                portant sur les finages de Griselles et Laignes ; déclaration des
+                                héritages exempts de tout droit envers le seigneur de Lornay et
+                                Griselles ; état des biens qui composent la grange de Lornay (après
+                                1541-1687).</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1541/1687"
+                                >1541-1687</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Concerne aussi Meursauges et La Folie.</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-27" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 27</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Acquisitions et
+                                vente.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1224/1582"
+                                >1224-1582</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Confirmation de la donation faite par Asceline (?) et contestée par
+                                son gendre Garnier (1224) ; échange de terres au finage de Laignes
+                                (1424) ; contrat de vente (1582).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-28" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 28</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Bail à ferme du «
+                                domaine et métairie » de Lornay et ses dépendances (à
+                                Laignes).</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1789"
+                                >1789</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                </c>
+                <c id="tt2-7">
+                    <!--titre niveau 2-->
+                    <did>
+                        <unitid label="Cotes extrêmes">17 H 29-38</unitid>
+                        <unittitle type="titre" label="Intitulé de l'unité documentaire">Laignes et
+                            Marcenay</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1199/1738"
+                            >1199-1738</unitdate>
+                    </did>
+                    <c id="de-29" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 29</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Reconnaissances des
+                                tenanciers, état du revenu.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1542/1596"
+                                >1542-1596</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-30" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 30</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Acquisitions et
+                                accord.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1199/1241"
+                                >1199-1241</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Donation par Guillaume de Brena (concerne aussi Le Loge) (1199) ;
+                                engagements de pâturages et d'usages contractés par Hugues de
+                                Laignes (1205, sceau de Robert, évêque de Langres) ; donation par
+                                Jean de Châtillon (1230 ?) ; don d'un droit sur le moulin de Laignes
+                                (1239) ; accord avec Gaucher, sire de Pacy (1241).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-31" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 31</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Cens :
+                                reconnaissances.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1292/1309"
+                                >1292-1309</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-32" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 32</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Tierces.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1254/1280"
+                                >1254-1280</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Donation par Jacques, chevalier de Cruzy (1254) (PETIT, n° 2800 bis)
+                                ; donation par Miles, sire de Chevigny (confirmée par son fils Gui)
+                                (1279/80).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="tt3-1">
+                        <!--titre niveau 3-->
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 33-37</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Rentes</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1471/1738"
+                                >1471-1738</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Amodiations, procédures.</p>
+                        </scopecontent>
+                        <c id="de-33" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 33</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">« La Patenotre »
+                                    : amodiations, procédures (1471-1731).</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1471/1731"
+                                    >1471-1731</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-34" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 34</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">« Champlaisir »
+                                    et « Le Faissot » : amodiations (1484/5-1623).</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1484/1623"
+                                    >1484-1623</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-35" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 35</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">« Chevigny » :
+                                    amodiations, procédures (1615-1703).</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1615/1703"
+                                    >1615-1703</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-36" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 36</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">« Champlaisir »
+                                    : amodiations (1644-1738).</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1644/1738"
+                                    >1644-1738</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-37" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 37</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">« Le Fessoir ou
+                                    Le Fays » : amodiations, procédures (1623-1733).</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1623/1733"
+                                    >1623-1733</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                    </c>
+                    <c id="de-38" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 38</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire"
+                                >Acquisitions.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1212/1246"
+                                >1212-1246</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Restitution de prés sis à Larrey près de Marcenay spoliés par Eudes
+                                de Grancey (1212/3) ; donation par Bernard Pépin de Marcenay
+                                (1212) ; donation par Letheritus, faber de Marcenay, et sa femme
+                                Adeline (1246). Les deux derniers actes concernent aussi
+                                Griselles.</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                </c>
+                <c id="tt2-8">
+                    <!--titre niveau 2-->
+                    <did>
+                        <unitid label="Cotes extrêmes">17 H 39-42</unitid>
+                        <unittitle type="titre" label="Intitulé de l'unité documentaire"
+                            >Magny-Lambert : grange de Tout-y-Faut</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1526/1726"
+                            >1526-1726</unitdate>
+                    </did>
+                    <c id="de-39" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 39</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Cens et rentes :
+                                reconnaissance, baux, transactions.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1526/1695"
+                                >1526-1695</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Concerne aussi Meursauges, La Folie, Plaisance et La Borde (un bail
+                                de 1543 concerne Tout-y-Faut, Meursauges, Ampilly, La Borde, La
+                                Brebis, Le Loge).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-40" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 40</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Cens et rentes,
+                                redevances : procès avec les habitants.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1706/1726"
+                                >1706-1726</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-41" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 41</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Décharge de foi et
+                                hommage pour les fermes de Tout-y-Faut et Plaisance.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1688"
+                                >1688</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-42" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 42</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Permission aux
+                                habitants de se clore et de se défendre.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1586/1587"
+                                >1586-1587</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                </c>
+                <c id="tt2-9">
+                    <!--titre niveau 2-->
+                    <did>
+                        <unitid label="Cotes extrêmes">17 H 43-65</unitid>
+                        <unittitle type="titre" label="Intitulé de l'unité documentaire"
+                            >Nesle-et-Massoult : grange de Massoult</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1202/1773"
+                            >1202-1773</unitdate>
+                    </did>
+                    <bioghist>
+                        <head>Biographie ou histoire</head>
+                        <p>À la fin de l'Ancien Régime, le domaine de Massoult comprend, autour des
+                            granges primitives de Massoult et de Nesle, des biens situés dans les
+                            communes d'Ampilly-le-Sec, Coulmier-le-Sec et Chamesson.</p>
+                    </bioghist>
+                    <c id="de-43" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 43</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Archives :
+                                procédures de recouvrement.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1683/1687"
+                                >1683-1687</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-44" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 44</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire"
+                                >Censiers.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1617/1619"
+                                >1617-1619</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>« Papiers censiers des cens, feux et poules dus par les habitants de
+                                Massoult ».</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-45" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 45</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Dénombrement des
+                                habitants.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1686"
+                                >1686</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-46" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 46</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Tibériades du
+                                terroir et fïnage de la grange.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1689"
+                                >1689</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Série spéciale (Plan 17 H 46).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-47" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 47</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Amodiation de la
+                                grange (sceau de l'abbaye de Quincy, 1500).</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1418/1500"
+                                >1418-1500</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-48" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 48</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Amodiations des
+                                revenus et droits de la terre et seigneurie : baux, adjudications,
+                                procédures.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1543/1773"
+                                >1543-1773</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Concerne aussi Tout-y-Faut, Meursauges, Ampilly-les-Bordes, La Borde,
+                                La Brebis et Le Loge.</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-49" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 49</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Arpentage des bois
+                                de « La Louere » et de « La Voie Grappin ».</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1668/1700">[fin
+                                XVIIe]</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Série spéciale (Plan 17 H 49).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-50" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 50</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Bois, droit de
+                                triage : procédure contre les habitants.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1705"
+                                >1705</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-51" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 51</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Bois, vente :
+                                autorisation de coupe, procès.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1648/1705"
+                                >1648-1705</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-52" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 52</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Cens :
+                                baux.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1564/1577"
+                                >1564-1577</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-53" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 53</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Cens, tierce (et
+                                dîme) : contrats entre particuliers.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1587/1657"
+                                >1587-1657</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-54" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 54</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Lods :
+                                reconnaissances.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1646/1669"
+                                >1646-1669</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-55" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 55</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Tierce : transaction
+                                avec un particulier.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1626"
+                                >1626</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-56" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 56</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Tierce : procédure
+                                contre les habitants en vue de la reconnaissance de ce droit sur
+                                tout le finage.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1679/1692"
+                                >1679-1692</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-57" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 57</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Tierce : procédure
+                                contre les habitants en vue de la reconnaissance de ce droit sur
+                                tout le finage.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1691/1693"
+                                >1691-1693</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-58" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 58</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Cens, droit de feu,
+                                « poule » et corvées : procédure, transaction.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1700/1761"
+                                >1700-1761</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-59" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 59</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Cens, droit de feu,
+                                « poule » et corvées : contestation et homologation de la
+                                transaction de 1706.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1714/1725"
+                                >1714-1725</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-60" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 60</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Dîmes (1209 copie
+                                XVe s.).</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1209/1500"
+                                >1209-XVe siècle</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Renonciation par les chanoines de Châtillon-sur-Seine aux dîmes de
+                                Coulmier et Balot appartenant à la grange de Massoult, et aux
+                                pâturages de Chamesson avec le moulin, l'étang et les prés.</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-61" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 61</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Portion congrue :
+                                transaction avec le curé de Nesle.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1687"
+                                >1687</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-62" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 62</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Chapelle :
+                                transaction avec le curé de Nesle au sujet de la desserte,
+                                inventaire des objets mobiliers.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1621/1687"
+                                >1621-[1687]</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-63" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 63</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Droit de chasse :
+                                reconnaissance.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1549/1550"
+                                >1549-1550</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-64" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 64</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Nesle. - Droit
+                                d'usage : donation, reconnaissance, transaction.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1202/1599"
+                                >1202-1599</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>A noter : Donation par Hugues, seigneur de Nesle, du droit de paisson
+                                dans les forêts de Nesle, et par Marguerite, sa mère, du droit de
+                                pêche et des moulins d'Argentenay [Yonne] (1202) ; décharge par le
+                                duc Hugues IV et sa femme Yolande des droits de charrois exigibles
+                                sur les granges de Semond, Nesle et Meursauges (1234) (PETIT, n°
+                                2170) ; interprétation de la donation par Jean, seigneur de Nesle,
+                                de droits d'usage au profit des granges de Massoult et du Loge
+                                (1304) (PETIT, n° 5766).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-65" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 65</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Redevance :
+                                donation, transaction.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1336/1418"
+                                >1336-1418</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                </c>
+                <c id="tt2-10">
+                    <!--titre niveau 2-->
+                    <did>
+                        <unitid label="Cotes extrêmes">17 H 66-71</unitid>
+                        <unittitle type="titre" label="Intitulé de l'unité documentaire"
+                            >Poinçon-lès-Larrey : ferme du Loge</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1198/1800"
+                            >1198-[XVIIIe]</unitdate>
+                    </did>
+                    <c id="de-66" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 66</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire"
+                                >Arpentage.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1625"
+                                >1625</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-67" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 67</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Etat des rentes et
+                                manuel.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1688"
+                                >[1688]</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-68" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 68</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">« Etat et
+                                dénombrement des particuliers qui possèdent des héritages au climat
+                                du Loge et dépendances… et dont la cens appartient [à Quincy]
+                                ».</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1701/1800"
+                                >[XVIIIe]</unitdate>
+                            <physdesc label="Description physique">
+                                <physfacet type="forme" label="Registre">Oui</physfacet>
+                                <lb/>
+                            </physdesc>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-69" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 69</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Acquisitions
+                                (redevance et pâturage).</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1198"
+                                >1198</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Vente par l'abbé de Saint-Germain d'Auxerre d'une redevance et
+                                abandon de dîmes (1198), notification par l'évêque de Langres (1198)
+                                ; arbitrage entre Quincy et Fontenay au sujet du pâturage (1198),
+                                ratification par le chapitre général (s.d.).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                        <odd type="commentaire">
+                            <head>Commentaire</head>
+                            <p>Concerne aussi Griselles et Laignes.</p>
+                        </odd>
+                    </c>
+                    <c id="de-70" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 70</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Amodiations (cens,
+                                rentes, fermes) : baux, enchère, procès, transactions.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1467/1705"
+                                >1467-1705</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-71" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 71</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Dîmes.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1202"
+                                >1202</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Abandon de prétention par le curé de Laignes.</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                </c>
+                <c id="tt2-11">
+                    <!--titre niveau 2-->
+                    <did>
+                        <unitid label="Cotes extrêmes">17 H 72-80</unitid>
+                        <unittitle type="titre" label="Intitulé de l'unité documentaire"
+                            >Quemigny-sur-Seine</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1195/1724"
+                            >1195-1724</unitdate>
+                    </did>
+                    <c id="tt3-3">
+                        <!--titre niveau 3-->
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 72-73</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Portion
+                                congrue</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1686/1688"
+                                >1686-1688</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Procès.</p>
+                        </scopecontent>
+                        <c id="de-72" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 72</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire"
+                                    >1686-1687</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1686/1687"
+                                    >1686-1687</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-73" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 73</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire"
+                                    >1687-1688</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1687/1688"
+                                    >1687-1688</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                    </c>
+                    <c id="de-74" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 74</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Dîme :
+                                procédures.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1714/1715"
+                                >1714-1715</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-75" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 75</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Cosne. - Redevance
+                                sur les tierces : acquisition, maintien.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1244/1505"
+                                >1244-1505</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>A noter : Donation par Marguerite de Tanlay (1244).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-76" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 76</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Grange de Plaisance.
+                                - Amodiation primitive, décharge du droit de banquet,
+                                résidence.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1478/1699"
+                                >1478-1699</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-77" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 77</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Cens et rentes :
+                                baux, transactions.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1574/1582"
+                                >1574-1582</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Concerne aussi Saint-Mard et Meursauges.</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-78" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 78</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Moulin de La Roche.
+                                - Donation, bail (1195 (copie XVe s.)-1655).</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1195/1655"
+                                >1195-1655</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>A noter : Donation par Aymon de Quemigny (1195).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-79" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 79</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Cens :
+                                reconnaissances ; bois : permission de coupe.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1700/1724"
+                                >1700-1724</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-80" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 80</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Chapelle
+                                Saint-Sébastien : autorisation de célébrer la messe, maintien du
+                                droit de Quincy.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1453/1497"
+                                >1453-1497</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                </c>
+                <c id="tt2-12">
+                    <!--titre niveau 2-->
+                    <did>
+                        <unitid label="Cotes extrêmes">17 H 81-89</unitid>
+                        <unittitle type="titre" label="Intitulé de l'unité documentaire"
+                            >Saint-Mard</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1259/1789"
+                            >1259-1789</unitdate>
+                    </did>
+                    <c id="de-81" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 81</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire"
+                                >Acquisition.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1259/1285"
+                                >1259-1285</unitdate>
+                        </did>
+                        <scopecontent>
+                            <head>Présentation du contenu</head>
+                            <p>Notification par Hugues IV que Guillaume, seigneur de Châtellenot,
+                                tient de Quincy divers biens (1259) (PETIT, n° 3151), qu'il
+                                transfère à Quincy (1285).</p>
+                        </scopecontent>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-82" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 82</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Cens et rentes :
+                                baux.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1538/1641"
+                                >1538-1641</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-83" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 83</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Tierces : bail,
+                                procès.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1668/1789"
+                                >1668-1789</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-84" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 84</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Moulin de
+                                Chenecières. - Exemption de redevance, droit d'avoir un
+                                four.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1482/1489"
+                                >1482-1489</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-85" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 85</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Redevance : procès
+                                contre l'occupant.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1626/1662"
+                                >1626-1662</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-86" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 86</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Redevance :
+                                reconnaissance.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1727"
+                                >1727</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-87" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 87</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">Granges de La
+                                Brebis. - Cens : reconnaissances, bail.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1609/1734"
+                                >1609-1734</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-88" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 88</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">La Brebis Basse. -
+                                Arpentage, bois, lods.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1676/1690"
+                                >1676-1690</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                    <c id="de-89" level="file">
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 89</unitid>
+                            <unittitle label="Intitulé de l'unité documentaire">La Brebis Haute. -
+                                Bail, justice, procès.</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1605/1732"
+                                >1605-1732</unitdate>
+                        </did>
+                        <accessrestrict>
+                            <p>
+                                <emph render="bold">Statut juridique</emph>
+                            </p>
+                            <p> </p>
+                        </accessrestrict>
+                    </c>
+                </c>
+                <c id="tt2-13">
+                    <!--titre niveau 2-->
+                    <did>
+                        <unitid label="Cotes extrêmes">17 H 90-122</unitid>
+                        <unittitle type="titre" label="Intitulé de l'unité documentaire"
+                            >Semond</unittitle>
+                        <unitdate label="Date de l'unité documentaire" normal="1146/1800"
+                            >1146-XVIIIe siècles</unitdate>
+                    </did>
+                    <bioghist>
+                        <head>Biographie ou histoire</head>
+                        <p>Le domaine de Semond, appelé « baronnie de Semond » aux XVIIe et XVIIIe
+                            siècles, a fini par regrouper, autour de la grange primitive de Semond,
+                            la majorité des biens alentour situés dans les communes
+                            d'Ampilly-les-Bordes (granges de La Folie et de Meursauges), de
+                            Bellenod-sur-Seine (grange de La Borde), de Magny-Lambert (grange de
+                            Tout-y-Faut), de Quemigny-sur-Seine (Cosne, grange de Plaisance, moulin
+                            de La Roche), de Saint-Mard (granges de La Brebis, moulin de
+                            Chenecières) et Semond.</p>
+                    </bioghist>
+                    <c id="tt3-5">
+                        <!--titre niveau 3-->
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 90-104</unitid>
+                            <unittitle type="titre" label="Intitulé de l'unité documentaire">«
+                                Baronnie de Semond »</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1526/1800"
+                                >1526-XVIIIe siècles</unitdate>
+                        </did>
+                        <c id="de-90" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 90</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Archives :
+                                    monitoire à l'encontre des détenteurs de titres.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1687"
+                                    >1687</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-91" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 91</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Copie de
+                                    titres.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1687"
+                                    >1687</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-92" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 92</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Recueil de
+                                    reconnaissances seigneuriales.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1526"
+                                    >1526</unitdate>
+                                <physdesc label="Description physique">
+                                    <physfacet type="forme" label="Registre">Oui</physfacet>
+                                    <lb/>
+                                </physdesc>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-93" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 93</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">« Manuel du
+                                    revenu de la terre et seigneurie de Quincy en ce qui deppend au
+                                    bailliage de La Montaigne ».</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1585/1586"
+                                    >1585-1586</unitdate>
+                                <physdesc label="Description physique">
+                                    <physfacet type="forme" label="Registre">Oui</physfacet>
+                                    <lb/>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <head>Présentation du contenu</head>
+                                <p>Concerne Semond, La Brebis-Haute et Basse, Chenecières,
+                                    Chemin-d'Aisey, Saint-Mard, Chalvosson [commune
+                                    Villaines-en-Duesmois], Magny-Lambert, Bellenod-sur-Seine,
+                                    Tout-y-Faut, La Borde, Plaisance, Cosne, Meursauges, La Folie,
+                                    Ampilly-les-Bordes, Jours-lès-Baigneux, La Roche.</p>
+                            </scopecontent>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-94" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 94</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">« Manuel du
+                                    revenu de la terre et seigneurie de Quincy en ce qui deppend au
+                                    bailliage de La Montaigne ».</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1589/1590"
+                                    >1589-1590</unitdate>
+                                <physdesc label="Description physique">
+                                    <physfacet type="forme" label="Registre">Oui</physfacet>
+                                    <lb/>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <head>Présentation du contenu</head>
+                                <p>Concerne Semond, La Brebis-Haute et Basse, Chenecières,
+                                    Chemin-d'Aisey, Saint-Mard, Chalvosson, Magny-Lambert,
+                                    Tout-y-Faut, La Borde, Plaisance, Cosne, Meursauges, La Folie,
+                                    Ampilly-les-Bordes.</p>
+                            </scopecontent>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-95" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 95</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">« Terrier de la
+                                    baronnie de Semond et dépendances ».</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1604/1605"
+                                    >1604-1605</unitdate>
+                                <physdesc label="Description physique">
+                                    <physfacet type="forme" label="Registre">Oui</physfacet>
+                                    <lb/>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <head>Présentation du contenu</head>
+                                <p>Concerne La Brebis-Haute et Basse, Semond, Chenecières,
+                                    Saint-Mard, Magny-Lambert, Meursauges, La Borde, La Folie,
+                                    Bellenod-sur-Seine, Tout-y-Faut, Plaisance, Ampilly-les-Bordes,
+                                    Jours-lès-Baigneux, Chalvosson.</p>
+                            </scopecontent>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-96" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 96</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">« Terrier de la
+                                    baronnie de Semond et dépendances ».</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1621"
+                                    >[1621]</unitdate>
+                                <physdesc label="Description physique">
+                                    <physfacet type="forme" label="Registre">Oui</physfacet>
+                                    <lb/>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <head>Présentation du contenu</head>
+                                <p>Concerne Semond, La Brebis-Haute et Basse, Chenecières,
+                                    Saint-Mard, Chalvosson, Magny-Lambert, Bellenod-sur-Seine,
+                                    Cosne, Tout-y-Faut, La Borde, Plaisance, Meursauges, La Folie,
+                                    Ampilly-les-Bordes, Jours-lès-Baigneux, La Montagne [commune
+                                    Bellenod-sur-Seine], La Roche, Châtillon-sur-Seine.</p>
+                            </scopecontent>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-97" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 97</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">« Terrier de la
+                                    baronnie de Semond et dépendances ».</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1629"
+                                    >[1629]</unitdate>
+                                <physdesc label="Description physique">
+                                    <physfacet type="forme" label="Registre">Oui</physfacet>
+                                    <lb/>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <head>Présentation du contenu</head>
+                                <p>Concerne Semond, La Brebis Haute et Basse, Chenecières,
+                                    Saint-Mard, Chalvosson, Magny-Lambert, Bellenod-sur-Seine,
+                                    Cosne, Tout-y-Faut, La Borde, Plaisance, Meursauges, La Folie,
+                                    Ampilly-lès-Bordes, Jours-lès-Baigneux, La Montagne, La Roche,
+                                    Châtillon-sur-Seine.</p>
+                            </scopecontent>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-98" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 98</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Manuel
+                                    (fragment).</unittitle>
+                                <unitdate label="Date de l'unité documentaire">-après
+                                    1636</unitdate>
+                                <physdesc label="Description physique">
+                                    <physfacet type="forme" label="Registre">Oui</physfacet>
+                                    <lb/>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <head>Présentation du contenu</head>
+                                <p>Concerne Saint-Mard, Chalvosson, Bellenod-sur-Seine, Cosne,
+                                    Tout-y-Faut, La Borde, Plaisance, Meursauges, La Folie,
+                                    Ampilly-les-Bordes, Jours-lès-Baigneux, La Montagne,
+                                    Châtillon-sur-Seine.</p>
+                            </scopecontent>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-99" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 99</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Etat des
+                                    habitants de la « baronnie de Semond », états des
+                                    redevances.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1687/1689"
+                                    >1687-1689</unitdate>
+                                <physdesc label="Description physique">
+                                    <physfacet type="forme" label="Registre">Oui</physfacet>
+                                    <lb/>
+                                </physdesc>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-100" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 100</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">« Terrier des
+                                    terres de la baronnie de Semond, Meursauges, La Folie, La Borde,
+                                    Tout-y-Faut, Plaisance et dépendances ».</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1705/1709"
+                                    >1705-1709</unitdate>
+                                <physdesc label="Description physique">
+                                    <physfacet type="forme" label="Registre">Oui</physfacet>
+                                    <lb/>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <head>Présentation du contenu</head>
+                                <p>Concerne La Borde, Plaisance, La Roche, Semond, La Brebis Haute,
+                                    La Brebis Basse, Tout-y-Faut, Meursauges, La Folie, Saint-Mard,
+                                    Chenecières, Châtillon-sur-Seine, etc.</p>
+                            </scopecontent>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-101" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 101</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Rôle des
+                                    redevances dues par les habitants de Semond, Meursauges et
+                                    dépendances.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1726"
+                                    >1726</unitdate>
+                                <physdesc label="Description physique">
+                                    <physfacet type="forme" label="Registre">Oui</physfacet>
+                                    <lb/>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <head>Présentation du contenu</head>
+                                <p>Concerne Semond, La Brebis, Chenecières, Magny-Lambert, La Roche,
+                                    Bellenod-sur-Seine, Tout-y-Faut, La Borde, Plaisance,
+                                    Meursauges, La Folie, etc.</p>
+                            </scopecontent>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-102" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 102</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Arpentage de
+                                    Semond, de La Brebis Haute et Basse.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1650"
+                                    >1650</unitdate>
+                                <physdesc label="Description physique">
+                                    <physfacet type="forme" label="Registre">Oui</physfacet>
+                                    <lb/>
+                                </physdesc>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-103" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 103</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Plan de la terre
+                                    de Semond ; de Meursauges, Tout-y-Faut, Plaisance, La Borde et
+                                    La Folie [fin XVIIe-début XVIIIe s.].</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1601/1800"
+                                    >XVIIe-XVIIIe siècles</unitdate>
+                            </did>
+                            <scopecontent>
+                                <head>Présentation du contenu</head>
+                                <p>Série spéciale (Plan 17 H 103).</p>
+                            </scopecontent>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-104" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 104</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Arpentages de :
+                                    La Borde, La Folie (avec fragment antérieur), Meursauges,
+                                    Plaisance.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1746/1747"
+                                    >1746-1747</unitdate>
+                                <physdesc label="Description physique">
+                                    <physfacet type="forme" label="Registre">Oui</physfacet>
+                                    <lb/>
+                                </physdesc>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                    </c>
+                    <c id="tt3-6">
+                        <!--titre niveau 3-->
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 105-110</unitid>
+                            <unittitle type="titre" label="Intitulé de l'unité documentaire">«
+                                Semond et dépendances »</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1195/1782"
+                                >1195-1782</unitdate>
+                        </did>
+                        <c id="de-105" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 105</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Renonciation par
+                                    Aimon, chevalier, de Saint-Mard, à tout ce qu'il réclamait à
+                                    Meursauges, Quemigny, Semond, Bellenod-sur-Seine, Chenecières et
+                                    Magny-Lambert.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1195"
+                                    >1195</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-106" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 106</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Copie de baux
+                                    (1511-1618).</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1689"
+                                    >1689</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-107" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 107</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Amodiation de la
+                                    seigneurie de Semond : baux, mémoires.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1511/1782"
+                                    >1511-1782</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-108" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 108</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Amodiation de la
+                                    seigneurie de Semond : procès.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1627/1741"
+                                    >1627-1741</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-109" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 109</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Droit de banquet
+                                    : composition.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1645"
+                                    >1645</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-110" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 110</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Justice :
+                                    érection d'un « signe patibulaire » et exercice de la justice
+                                    criminelle.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1400/1549"
+                                    >1400-1549</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                    </c>
+                    <c id="tt3-7">
+                        <!--titre niveau 3-->
+                        <did>
+                            <unitid label="Cotes extrêmes">17 H 111-122</unitid>
+                            <unittitle type="titre" label="Intitulé de l'unité documentaire">Grange
+                                de Semond</unittitle>
+                            <unitdate label="Date de l'unité documentaire" normal="1146/1771"
+                                >1146-1771</unitdate>
+                        </did>
+                        <c id="de-111" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 111</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Débornement de
+                                    la grange : sentence, procès-verbal, procès.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1480/1482"
+                                    >1480-1482</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-112" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 112</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Acquisition ;
+                                    accords.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1146/1233"
+                                    >1146-1233</unitdate>
+                            </did>
+                            <scopecontent>
+                                <head>Présentation du contenu</head>
+                                <p>Donation à Molosme du village de Semond par Gaudin, sire de
+                                    Brémur et son frère Gui, puis donation par l'abbé de Molosme de
+                                    tout ce que son abbaye possède à Semond avec la moitié d'un
+                                    moulin (s.d. et 1146, 2 actes) (PETIT, n° 296) ; vente de divers
+                                    prés par Aimon d'Aisey et son frère Hugues, et de droits d'usage
+                                    à Vilerius <note>
+                                        <p>Le Dictionnaire topographique, p. 407, rejette, comme «
+                                            inacceptable », l'assimilation de Vilerius à Vaurois
+                                            proposée par J. Garnier.</p>
+                                    </note> par Gaudin de Brémur et son frère Gui (1157) (PETIT, n°
+                                    363) ; abandon de prétention par Pierre de Goe [Goé] <note>
+                                        <p>Identifié avec Goix [commune Villargoix] par le
+                                            Dictionnaire topographique, p. 186.</p>
+                                    </note> sur une terre (Feschei ou Feschelis) dont un arbitrage
+                                    juge qu'elle fait partie de la grange de Semond (1173 et s.d., 2
+                                    actes) (PETIT, n° 556) ; accord avec l'évêque d'Autun qui
+                                    abandonne une terre et tout ce qu'il possède à Saint-Mard <note>
+                                        <p>Titres servant au bornage de Semond.</p>
+                                    </note> (1173 ; confirmation 1227) ; donation par Jean, miles de
+                                    Sanaveo et abandon de prétention sur le moulin de Choiseau
+                                    (1197) ; donation par Saboeth, dame de Bissey (1197) ; abandon
+                                    de droit par Pierre de Goé (1205, 2 actes) (PETIT, n° 1106) ;
+                                    arrangement avec Pierre de Goé et ses hommes de Saint-Mard au
+                                    sujet de terres et de droits sis à Semond, Quemigny, etc. (1208)
+                                    (PETIT, n° 1163) ; règlement par le duc Eudes III des droits
+                                    d'usage entre les moines de Quincy et les Templiers auxquels il
+                                    a donné le village d'Aisey (1208) (PETIT, n° 1166) ; donation
+                                    par Aymon, châtelain de Brémur (1209) ; donation d'une dîme et
+                                    abandon de querelle par Geoffroy de Brémur (1233).</p>
+                            </scopecontent>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-113" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 113</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Aliénation de la
+                                    grange au duc Hugues IV, puis rétrocession.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1233/1248"
+                                    >1233-1248</unitdate>
+                            </did>
+                            <scopecontent>
+                                <head>Présentation du contenu</head>
+                                <p>Concerne aussi Meursauges, Le Loge et Nesle.</p>
+                            </scopecontent>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                            <bibliography>
+                                <head>Bibliographie</head>
+                                <p>PETIT, n° 2593 pour l'acte de 1248 n.s.</p>
+                            </bibliography>
+                        </c>
+                        <c id="de-114" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 114</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Bois : mise en
+                                    possession par Eudes IV.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1315"
+                                    >1315</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                            <bibliography>
+                                <head>Bibliographie</head>
+                                <p>PETIT, n° 6612</p>
+                            </bibliography>
+                        </c>
+                        <c id="de-115" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 115</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Bois, doit de
+                                    coupe : ventes, arpentages.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1610/1735"
+                                    >1610-1735</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-116" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 116</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">« Les Grands
+                                    Bois », droit de coupe et d'usage : transaction, procédures,
+                                    arpentage.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1745/1771"
+                                    >1745-1771</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-117" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 117</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Délits
+                                    forestiers : procès Grappin.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1725/1740"
+                                    >1725-1740</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-118" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 118</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Cens et rentes :
+                                    baux.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1513/1734"
+                                    >1513-1734</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-119" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 119</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Tierces :
+                                    attribution à Quincy (1323, sceau du bailliage de la Montagne),
+                                    bail à ferme.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1323/1660"
+                                    >1323-1660</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-120" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 120</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Dîmes :
+                                    amodiation de la perception.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1677"
+                                    >1677</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-121" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 121</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Chapelle :
+                                    procédure contre le curé de Saint-Mard.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1687"
+                                    >1687</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                        <c id="de-122" level="file">
+                            <did>
+                                <unitid label="Cotes extrêmes">17 H 122</unitid>
+                                <unittitle label="Intitulé de l'unité documentaire">Anticipations de
+                                    chemins et de biens communaux.</unittitle>
+                                <unitdate label="Date de l'unité documentaire" normal="1734"
+                                    >1734</unitdate>
+                            </did>
+                            <accessrestrict>
+                                <p>
+                                    <emph render="bold">Statut juridique</emph>
+                                </p>
+                                <p> </p>
+                            </accessrestrict>
+                        </c>
+                    </c>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>
