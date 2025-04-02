@@ -56,7 +56,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>file:/home/niklas/Documents/uni/monasterium/import/quincy/EAD2CEI.xsl</String>
+                                    <String>file:EAD2CEI.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
