@@ -12,9 +12,11 @@
     
     <xsl:strip-space elements="*" />
     
-    <xsl:template match="*|@*">
+    <!--<xsl:template match="*|@*">
         <xsl:message>WARNING: Unprocessed node: <xsl:value-of select="name()"/></xsl:message>
-    </xsl:template>
+    </xsl:template>-->
+    
+    <xsl:variable name="img-file" select="doc('img_list_stutzmann.xml')"/>
     
     <xsl:template match='ead'>
         <cei:cei>
@@ -107,11 +109,11 @@
         <xsl:apply-templates/>
     </xsl:template>
     
-    <xsl:template match="unitid">
+    <!--<xsl:template match="unitid">
         <cei:idno>
             <xsl:apply-templates/>
         </cei:idno>
-    </xsl:template>
+    </xsl:template>-->
     
     <!--<xsl:template match="unittitle">
         <cei:h1>
@@ -212,6 +214,7 @@
                             </xsl:choose>
                         </xsl:with-param>
                         <xsl:with-param name="desc_id" select="$desc_id"/>
+                        <xsl:with-param name="counter" select="position()"/>
                     </xsl:call-template>
                 </xsl:for-each>
             </xsl:when>
@@ -227,16 +230,33 @@
     <xsl:template name="charter-content">
         <xsl:param name="abstract-token"/>
         <xsl:param name="desc_id"/>
+        <xsl:param name="counter"/>
         <cei:text type="charter">
             <!--<cei:front>
                 <xsl:apply-templates select="$desc_id/unittitle"/>
             </cei:front>-->
             <cei:body>
-                <xsl:apply-templates select="$desc_id/unitid"/>
+                <cei:idno>
+                    <xsl:choose>
+                        <xsl:when test="$counter">
+                            <xsl:value-of select="concat($desc_id/unitid, '-', $counter)"/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of select="$desc_id/unitid"/>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </cei:idno>
                 <cei:chDesc>
                     <cei:abstract>
                         <xsl:apply-templates select="$abstract-token"/>
                     </cei:abstract>
+                    <cei:witnessOrig>
+                        <xsl:for-each select="$img-file//dossier[contains(@id, replace($desc_id/unitdate/text(), ' ', ''))]">
+                            <cei:figure>
+                                <cei:graphic url='{./text()}'/>
+                            </cei:figure>
+                        </xsl:for-each>
+                    </cei:witnessOrig>
                     <xsl:apply-templates select="$desc_id/unitdate"/>
                     <xsl:apply-templates select="$desc_id/bibliography"/>
                 </cei:chDesc>
