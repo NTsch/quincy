@@ -97,9 +97,7 @@
         <xsl:apply-templates/>
     </xsl:template>
     
-    <!--<xsl:template match="did">
-        <xsl:apply-templates/>
-    </xsl:template>-->
+    <xsl:template match="did[parent::archdesc or parent::c[not(@level='file')]]"/>
     
     <xsl:template match="dsc">
         <xsl:apply-templates/>
@@ -239,9 +237,12 @@
                 <cei:idno>
                     <xsl:choose>
                         <xsl:when test="$counter">
-                            <xsl:value-of select="concat($desc_id/unitid, '-', $counter)"/>
+                            <xsl:variable name="id" select="concat($desc_id/unitid, '-', $counter)"/>
+                            <xsl:attribute name="id" select="$id"/>
+                            <xsl:value-of select="$id"/>
                         </xsl:when>
                         <xsl:otherwise>
+                            <xsl:attribute name="id" select="$desc_id/unitid"/>
                             <xsl:value-of select="$desc_id/unitid"/>
                         </xsl:otherwise>
                     </xsl:choose>
@@ -251,9 +252,9 @@
                         <xsl:apply-templates select="$abstract-token"/>
                     </cei:abstract>
                     <cei:witnessOrig>
-                        <xsl:for-each select="$img-file//dossier[contains(@id, replace($desc_id/unitdate/text(), ' ', ''))]">
+                        <xsl:for-each select="$img-file//dossier[matches(@id, concat('ADCO ', replace($desc_id/unitid/text(), ' ', ''), '(-\d+)?$'))]/recto">
                             <cei:figure>
-                                <cei:graphic url='{./text()}'/>
+                                <cei:graphic url="{concat('https://images.monasterium.net/img/Quincy/ADCO_', replace($desc_id/unitid/text(), ' ', ''), '/', ./text())}"/>
                             </cei:figure>
                         </xsl:for-each>
                     </cei:witnessOrig>
