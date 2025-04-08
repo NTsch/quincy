@@ -97,6 +97,14 @@
         <xsl:apply-templates/>
     </xsl:template>
     
+    <xsl:template match="archdesc[@level='fonds']">
+        <cei:text>
+            <cei:group>
+                <xsl:apply-templates/>
+            </cei:group>
+        </cei:text>
+    </xsl:template>
+    
     <xsl:template match="did[parent::archdesc or parent::c[not(@level='file')]]"/>
     
     <xsl:template match="dsc">
@@ -119,11 +127,7 @@
         </cei:h1>
     </xsl:template>-->
     
-    <!--<xsl:template match="scopecontent">
-        <cei:abstract>
-            <xsl:apply-templates/>
-        </cei:abstract>
-    </xsl:template>-->
+    <xsl:template match="scopecontent"/>
     
     <xsl:template match='p'>
         <xsl:apply-templates/>
