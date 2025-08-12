@@ -89,9 +89,11 @@
     
     <xsl:template match="bioghist"/>
     
-    <xsl:template match="odd"/>
-    
     <!--###########################-->
+    
+    <xsl:template match="odd">
+        <xsl:apply-templates/>
+    </xsl:template>
     
     <xsl:template match="archdesc">
         <xsl:apply-templates/>
@@ -129,13 +131,13 @@
     
     <xsl:template match="scopecontent"/>
     
-    <xsl:template match='p'>
+    <xsl:template match="p">
         <xsl:apply-templates/>
     </xsl:template>
     
     <xsl:template match="head"/>
     
-    <xsl:template match='repository'>
+    <xsl:template match="repository">
         <cei:archIdentifier>
             <cei:arch>
                 <xsl:apply-templates/>
@@ -159,12 +161,6 @@
         <cei:lb>
             <xsl:apply-templates/>
         </cei:lb>
-    </xsl:template>
-    
-    <xsl:template match="note">
-        <cei:note>
-            <xsl:apply-templates/>
-        </cei:note>
     </xsl:template>
     
     <xsl:template match="controlaccess"/>
@@ -203,7 +199,15 @@
         <xsl:choose>
             <!--scopecontent/p/text() is not always present-->
             <xsl:when test="scopecontent/p/normalize-space()">
-                <xsl:for-each select="tokenize(string-join(scopecontent/p/text()), ';')">
+                
+                <xsl:variable name="abstract-content"
+                    select="string-join(
+                    for $n in scopecontent/p/node() return (
+                        if ($n/self::note) then concat('[', string-join($n//text(), ' '), ']')
+                        else normalize-space(string($n))
+                    ), ' ')" />
+                    
+                <xsl:for-each select="tokenize($abstract-content, ';')">
                     <xsl:call-template name="charter-content">
                         <xsl:with-param name="abstract-token">
                             <xsl:choose>
@@ -261,12 +265,24 @@
                                 <cei:graphic url="{concat('https://images.monasterium.net/img/Quincy/ADCO_', replace($desc_id/unitid/text(), ' ', ''), '/', ./text())}"/>
                             </cei:figure>
                         </xsl:for-each>
+                        <cei:archIdentifier>
+                            <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
+                            <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
+                            <cei:settlement>Dijon</cei:settlement>
+                            <cei:country>France</cei:country>
+                            <xsl:variable name="tt" select="$desc_id/parent::c/parent::c/@id/data()"/>
+                            <cei:ref target='{concat("https://archives.cotedor.fr/console/ir_ead_visu.php?eadid=FRAD021_000002216&amp;cid=", $tt)}'/>
+                        </cei:archIdentifier>
                     </cei:witnessOrig>
                     <xsl:apply-templates select="$desc_id/unitdate"/>
-                    <xsl:apply-templates select="$desc_id/bibliography"/>
+                    <cei:diplomaticAnalysis>
+                        <xsl:apply-templates select="$desc_id/parent::c//bibliography"/>
+                        <xsl:apply-templates select="$desc_id/parent::c//odd"/>
+                    </cei:diplomaticAnalysis>
                 </cei:chDesc>
             </cei:body>
         </cei:text>
     </xsl:template>
     
 </xsl:stylesheet>
+

@@ -1,0 +1,2544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+    <cei:teiHeader>
+        <cei:fileDesc>
+            <cei:titleStmt>
+                <cei:title>17 H. – Abbaye de Quincy</cei:title>
+                <cei:p>Répertoire numérique de la sous-série 17 H</cei:p>
+            </cei:titleStmt>
+            <cei:publicationStmt>
+                <cei:publisher>Archives départementales de la Côte-d'Or</cei:publisher>
+                <cei:pubPlace>Dijon</cei:pubPlace>
+            </cei:publicationStmt>
+        </cei:fileDesc>
+    </cei:teiHeader>
+    <cei:text>
+        <cei:group>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 1">17 H 1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Main levée du duc sur les biens de l'abbaye saisis pour le
+                            refus de celle-ci de contribuer aux frais de l'expédition contre le duc
+                            de 1389 Gueldre.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="13899999">1389</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 2">17 H 2</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Aliénations : récapitulation pour les biens sis aux diocèses
+                            de Langres et d'Autun.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16429999">1642</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 3">17 H 3</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Procédures de l'abbaye contre l'évêque d'Autun, de l'abbé
+                            contre les religieux.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="14829999" to="17659999">1482-1765</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 4">17 H 4</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Décharge du ban et arrière-ban (pour les domaines de l'abbaye
+                            sis en Bourgogne).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16899999">1689</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 5-1">17 H 5-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par le duc Hugues III des pâturages d'Ampilly ainsi
+                            que de l'usage de l'eau de la Seine, pour les besoins de la grange de
+                            Nesle (1187) (PETIT, n° 772)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H5/22110full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="11879999">1187</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 5-2">17 H 5-2</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Ratification par le duc Eudes III (1205) (PETIT, n°
+                            1103).</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H5/22112full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12059999">1205</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 6">17 H 6</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>La Folie. - Concession à plusieurs vies puis à perpétuité ;
+                            bail à cens.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="14609999" to="16099999">1460-1609</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 7">17 H 7</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Meursauges. - Extrait du terrier de Semond de
+                            1605.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16909999">1690</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 8-1">17 H 8-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Savary de Fontaines d'une redevance à Quemigny et
+                            abandon par Anseau de Duesme de tout droit sur Meursauges, Quemigny,
+                            «Passoual» [commune d'Ampilly-les-Bordes] et Saint-Mard (1190) (PETIT,
+                            n° 828)</cei:abstract>
+                        <cei:witnessOrig>
+
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22126full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="11909999">1190</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 8-2">17 H 8-2</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Guillaume de Montlay et son gendre Etienne d'un
+                            droit de pêche et d'un droit de pâturage à Quemigny, pour l'usage de la
+                            grange de Meursauges (1190)</cei:abstract>
+                        <cei:witnessOrig>
+
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22109full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="11909999">1190</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 8-3">17 H 8-3</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Simon de Rochefort et sa femme Béatrix d'une
+                            redevance (1216, 3 notifications, dont l'une par le duc Eudes III)
+                            (PETIT, n° 1375)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22115full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22117full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22119full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date valie="12169999">1216</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 8-4">17 H 8-4</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Geoffroy, fils de Manassès de Brémur
+                            (1218)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22112full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12189999">1218</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 8-5">17 H 8-5</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Hugues de Bissey d'un homme, d'une redevance à
+                            Meursauges et de pâturages à Cosne et Quemigny (1225)</cei:abstract>
+                        <cei:witnessOrig>
+
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22121full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12259999">1225</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 8-6">17 H 8-6</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Robert, sire de Tanlay, et sa femme Marguerite
+                            d'une redevance due sur Meursauges (1257, 2 actes) (PETIT, n°
+                            2922).</cei:abstract>
+                        <!-- passt, zweite oben erwähnte Urkunde ist wahrscheinlich die, die auf dem Bild nur von der Rückseite aus zu sehen ist -->
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22127_full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12579999">1257</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 9-1">17 H 9-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Composition avec Pothières au sujet de la vente d'une
+                            redevance (entre 1216 et 1220, 2 actes)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H9/22120full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H9/22122full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:dateRange from="12169999" to="12209999">entre 1216 et
+                                1220</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 9-2">17 H 9-2</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Abandon des revendications d'Hugues desuper aquam et sa femme
+                            Laurence (entre 1189 et 1223).</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H9/22115full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:dateRange from="11899999" to="12239999">entre 1189 et
+                                1223</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 10">17 H 10</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Amodiations de la grange : baux.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15239999" to="15909999">1523-1590</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 11-1">17 H 11-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>A noter : « Mémoire instructif » sur la seigneurie de
+                            Meursauges (1691).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16909999" to="16979999">1690-1697</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 12-1">17 H 12-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>A noter : Donation (dans le bois de Meursauges) par Renaud de
+                            Jors (1206)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H12/22141full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12069999">1206</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 12-2">17 H 12-2</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>renonciation par Étienne et Gérard, frères, de Quemignerot
+                            (1238)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H12/22144full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12389999">1238</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 12-3">17 H 12-3</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Accord avec Hervé, sire de Saint-Mard, et sa femme Marguerite
+                            (1246) (PETIT, n° 2555).</cei:abstract>
+                        <cei:witnessOrig>
+
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H12/22147full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12469999">1246</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 13">17 H 13</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Bois de Chalonge : vente.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="15769999">1576</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 14">17 H 14</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Bois : dégradations.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16089999">1608</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 15-1">17 H 15-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Intéresse aussi Saint-Mard et La Folie. A noter : Bail de la
+                            maison de la perception des redevances (1668).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="13589999" to="16789999">1358-1678</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 16">17 H 16</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Cens : abandon et transformation en bail à
+                            ferme.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16779999" to="16899999">1677-1689</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 17">17 H 17</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Rente de l'Étang de « Passoual » ou « Pessonaut » : vente
+                            entre particuliers, procès relatif à l'autorisation de vente, bail à
+                            cens, arrérages.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15979999" to="16979999">1597-1697</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 18">17 H 18</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Dîmes : menace d'excommunication prononcée par l'évêque de
+                            Chalon-sur-Saône à l'encontre des prétentions de
+                            Flavigny.</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H18/22131full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12039999">1203</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 19">17 H 19</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Exposition des reliques de saint Honoré jadis à Quincy et
+                            conservées à Meursauges depuis les Guerres de religion.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="17399999">1739</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 20">17 H 20</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Permission aux habitants de se clore et de se
+                            défendre.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15869999" to="15879999">1586-1587</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 21">17 H 21</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Concession à plusieurs vies puis bail à cens et
+                            rente.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15119999" to="16149999">1511-1614</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 22">17 H 22</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Redevances dues par les habitants : arpentage, rôle,
+                            procédure.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16619999" to="17409999">[1661]-1740</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 23-1">17 H 23-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Renaud Leticia et sa femme Sibille
+                            (1184)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H23/22137full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="11849999">1184</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 23-2">17 H 23-2</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Abandon de contestation par Anselme, chevalier de Asi
+                            [Aisey-sur-Seine ?], gendre du précédent (1195).</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H23/22135full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="11959999">1195</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 24-1">17 H 24-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Mathieu et Arnould, frères, de Laignes, de droits
+                            de pâturage et d'usage (1190)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H24/22156full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="11909999">1190</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 24-2">17 H 24-2</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Confirmation par le duc Eudes III (1205) (PETIT, n° 1104).
+                            Donation par Guillaume, écuyer, de Nesle, d'un sessus
+                            (1237).</cei:abstract>
+                        <!-- das sind zwei Einträge:  "Confirmation par le duc Eudes III (1205) (PETIT, n° 1104).", Bild: https://images.monasterium.net/img/Quincy/ADCO_17H24/22154full.jpg / "Donation par Guillaume, écuyer, de Nesle, d'un sessus
+                            (1237).", Bild: https://images.monasterium.net/img/Quincy/ADCO_17H24/22151full.jpg -->
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H24/22151full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H24/22154full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:dateRange from="12059999" to="12379999">1205-1237</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="Inventaire 285">Inventaire 285</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>« Inventaire des titres de Laignes et Marcenay, Lornay, Loge
+                            et Griselles qui se sont trouvés dans la grande armoire de Quincy,
+                            layette neuvième…» (XVIIIe s. [après 1710]).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="17019999" to="18009999">XVIIIe
+                                siècle</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 26-1">17 H 26-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Concerne aussi Meursauges et La Folie.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15419999" to="16879999">1541-1687</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 27-1">17 H 27-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Confirmation de la donation faite par Asceline (?) et
+                            contestée par son gendre Garnier (1224)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22233full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12249999">1224</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 27-2">17 H 27-2</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Échange de terres au finage de Laignes (1424)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22236full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22237full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="14249999">1424</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 27-3">17 H 27-3</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Contrat de vente (1582).</cei:abstract>
+                        <!-- keines der Bilder passt, Bilder auch schon anderen Einträgen zugeordnet -->
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22233full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22236full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22237full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="15829999">1582</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 28">17 H 28</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Bail à ferme du « domaine et métairie » de Lornay et ses
+                            dépendances (à Laignes).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="17899999">1789</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 29">17 H 29</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Reconnaissances des tenanciers, état du revenu.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15429999" to="15969999">1542-1596</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 30-1">17 H 30-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Guillaume de Brena (concerne aussi Le Loge)
+                            (1199)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22201full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="11999999">1199</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 30-2">17 H 30-2</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Engagements de pâturages et d'usages contractés par Hugues de
+                            Laignes (1205, sceau de Robert, évêque de Langres)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22206full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22208full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22209full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12059999">1205</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 30-3">17 H 30-3</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Jean de Châtillon (1230 ?)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22212full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="1230">1230 ?</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 30-4">17 H 30-4</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Don d'un droit sur le moulin de Laignes (1239)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22216full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12399999">1239</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 30-5">17 H 30-5</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Accord avec Gaucher, sire de Pacy (1241).</cei:abstract>
+                        <!-- keines der Bilder passt, Bilder schon anderen Einträgen zugeordnet -->
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22201full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22206full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22208full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22209full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22212full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22216full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12419999">1241</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 31">17 H 31</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Cens : reconnaissances.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="12929999" to="13099999">1292-1309</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 32-1">17 H 32-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Jacques, chevalier de Cruzy (1254) (PETIT, n°
+                            2800 bis)</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="12549999" to="12809999">1254-1280</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 32-2">17 H 32-2</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Miles, sire de Chevigny (confirmée par son fils
+                            Gui) (1279/80).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="12549999" to="12809999">1254-1280</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 33">17 H 33</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>« La Patenotre » : amodiations, procédures
+                            (1471-1731).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="14719999" to="17319999">1471-1731</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 34">17 H 34</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>« Champlaisir » et « Le Faissot » : amodiations
+                            (1484/5-1623).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="14849999" to="16239999">1484-1623</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 35">17 H 35</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>« Chevigny » : amodiations, procédures
+                            (1615-1703).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16159999" to="17039999">1615-1703</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 36">17 H 36</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>« Champlaisir » : amodiations (1644-1738).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16449999" to="17389999">1644-1738</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 37">17 H 37</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>« Le Fessoir ou Le Fays » : amodiations, procédures
+                            (1623-1733).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16239999" to="17339999">1623-1733</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 38-1">17 H 38-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Restitution de prés sis à Larrey près de Marcenay spoliés par
+                            Eudes de Grancey (1212/3)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H38/22223full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:dateRange from="12129999" to="12139999">1212/3</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 38-2">17 H 38-2</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Bernard Pépin de Marcenay (1212)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H38/22226full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12129999">1212</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 38-3">17 H 38-3</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Letheritus, faber de Marcenay, et sa femme
+                            Adeline (1246). Les deux derniers actes concernent aussi
+                            Griselles.</cei:abstract>
+
+                        <!-- Welche Urkunden ("deux derniers actes") sind hier noch gemeint?-->
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H38/22229full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12469999">1246</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 39-1">17 H 39-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Concerne aussi Meursauges, La Folie, Plaisance et La Borde (un
+                            bail de 1543 concerne Tout-y-Faut, Meursauges, Ampilly, La Borde, La
+                            Brebis, Le Loge).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15269999" to="16959999">1526-1695</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 40">17 H 40</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Cens et rentes, redevances : procès avec les
+                            habitants.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="17069999" to="17269999">1706-1726</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 41">17 H 41</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Décharge de foi et hommage pour les fermes de Tout-y-Faut et
+                            Plaisance.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16889999">1688</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 42">17 H 42</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Permission aux habitants de se clore et de se
+                            défendre.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15869999" to="15879999">1586-1587</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 43">17 H 43</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Archives : procédures de recouvrement.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16839999" to="16879999">1683-1687</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 44-1">17 H 44-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>« Papiers censiers des cens, feux et poules dus par les
+                            habitants de Massoult ».</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16179999" to="16199999">1617-1619</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 45">17 H 45</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Dénombrement des habitants.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16869999">1686</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 46-1">17 H 46-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Série spéciale (Plan 17 H 46).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16899999">1689</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 47">17 H 47</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Amodiation de la grange (sceau de l'abbaye de Quincy,
+                            1500).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="14189999" to="15009999">1418-1500</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 48-1">17 H 48-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Concerne aussi Tout-y-Faut, Meursauges, Ampilly-les-Bordes, La
+                            Borde, La Brebis et Le Loge.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15439999" to="17739999">1543-1773</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 49-1">17 H 49-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Série spéciale (Plan 17 H 49).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16689999" to="17009999">[fin XVIIe]</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 50">17 H 50</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Bois, droit de triage : procédure contre les
+                            habitants.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="17059999">1705</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 51">17 H 51</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Bois, vente : autorisation de coupe, procès.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16489999" to="17059999">1648-1705</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 52">17 H 52</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Cens : baux.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15649999" to="15779999">1564-1577</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 53">17 H 53</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Cens, tierce (et dîme) : contrats entre
+                            particuliers.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15879999" to="16579999">1587-1657</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 54">17 H 54</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Lods : reconnaissances.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16469999" to="16699999">1646-1669</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 55">17 H 55</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Tierce : transaction avec un particulier.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16269999">1626</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 56">17 H 56</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Tierce : procédure contre les habitants en vue de la
+                            reconnaissance de ce droit sur tout le finage.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16799999" to="16929999">1679-1692</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 57">17 H 57</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Tierce : procédure contre les habitants en vue de la
+                            reconnaissance de ce droit sur tout le finage.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16919999" to="16939999">1691-1693</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 58">17 H 58</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Cens, droit de feu, « poule » et corvées : procédure,
+                            transaction.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="17009999" to="17619999">1700-1761</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 59">17 H 59</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Cens, droit de feu, « poule » et corvées : contestation et
+                            homologation de la transaction de 1706.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="17149999" to="17259999">1714-1725</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 60-1">17 H 60-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Renonciation par les chanoines de Châtillon-sur-Seine aux
+                            dîmes de Coulmier et Balot appartenant à la grange de Massoult, et aux
+                            pâturages de Chamesson avec le moulin, l'étang et les
+                            prés.</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H60/22160full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H60/22161full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H60/22162full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:dateRange from="12099999" to="15009999">1209-XVe
+                                siècle</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 61">17 H 61</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Portion congrue : transaction avec le curé de
+                            Nesle.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16879999">1687</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 62">17 H 62</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Chapelle : transaction avec le curé de Nesle au sujet de la
+                            desserte, inventaire des objets mobiliers.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16219999" to="16879999">1621-[1687]</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 63">17 H 63</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Droit de chasse : reconnaissance.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15499999" to="15509999">1549-1550</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 64-1">17 H 64-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>A noter : Donation par Hugues, seigneur de Nesle, du droit de
+                            paisson dans les forêts de Nesle, et par Marguerite, sa mère, du droit
+                            de pêche et des moulins d'Argentenay [Yonne] (1202)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H64/22180full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12029999">1202</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 64-2">17 H 64-2</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Décharge par le duc Hugues IV et sa femme Yolande des droits
+                            de charrois exigibles sur les granges de Semond, Nesle et Meursauges
+                            (1234) (PETIT, n° 2170)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H64/22184full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12349999">1234</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 64-3">17 H 64-3</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Interprétation de la donation par Jean, seigneur de Nesle, de
+                            droits d'usage au profit des granges de Massoult et du Loge (1304)
+                            (PETIT, n° 5766).</cei:abstract>
+                        <!-- keines von beiden passt, Bilder sind auch schon anderen Einträgen zugeordnet -->
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H64/22180full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H64/22184full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="13049999">1304</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 65">17 H 65</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Redevance : donation, transaction.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="13369999" to="14189999">1336-1418</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 66">17 H 66</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Arpentage.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16259999">1625</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 67">17 H 67</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Etat des rentes et manuel.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16889999">[1688]</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 68">17 H 68</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>« Etat et dénombrement des particuliers qui possèdent des
+                            héritages au climat du Loge et dépendances… et dont la cens appartient
+                            [à Quincy] ».</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="17019999" to="18009999">[XVIIIe]</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 69-1">17 H 69-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Vente par l'abbé de Saint-Germain d'Auxerre d'une redevance et
+                            abandon de dîmes (1198), notification par l'évêque de Langres
+                            (1198)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H69/22166full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H69/22168full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="11989999">1198</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 69-2">17 H 69-2</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Arbitrage entre Quincy et Fontenay au sujet du pâturage
+                            (1198), ratification par le chapitre général (s.d.).</cei:abstract>
+                        <cei:witnessOrig>
+
+                            <!-- Datum (1198 und s.d.) vertauscht? -->
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H69/22173full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H69/22176full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="11989999">1198</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 70">17 H 70</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Amodiations (cens, rentes, fermes) : baux, enchère, procès,
+                            transactions.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="14679999" to="17059999">1467-1705</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 71-1">17 H 71-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Abandon de prétention par le curé de Laignes.</cei:abstract>
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H71/22197full.jpg"/>
+
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12029999">1202</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 72">17 H 72</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>1686-1687</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16869999" to="16879999">1686-1687</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 73">17 H 73</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>1687-1688</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16879999" to="16889999">1687-1688</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 74">17 H 74</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Dîme : procédures.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="17149999" to="17159999">1714-1715</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 75-1">17 H 75-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>A noter : Donation par Marguerite de Tanlay
+                            (1244).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="12449999" to="15059999">1244-1505</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 76">17 H 76</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Grange de Plaisance. - Amodiation primitive, décharge du droit
+                            de banquet, résidence.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="14789999" to="16999999">1478-1699</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 77-1">17 H 77-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Concerne aussi Saint-Mard et Meursauges.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15749999" to="15829999">1574-1582</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 78-1">17 H 78-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>A noter : Donation par Aymon de Quemigny
+                            (1195).</cei:abstract>
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H78/22192full.jpg"/>
+
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="11959999">1195</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 79">17 H 79</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Cens : reconnaissances ; bois : permission de
+                            coupe.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="17009999" to="17249999">1700-1724</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 80">17 H 80</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Chapelle Saint-Sébastien : autorisation de célébrer la messe,
+                            maintien du droit de Quincy.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="14539999" to="14979999">1453-1497</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 81-1">17 H 81-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Notification par Hugues IV que Guillaume, seigneur de
+                            Châtellenot, tient de Quincy divers biens (1259) (PETIT, n° 3151), qu'il
+                            transfère à Quincy (1285).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="12599999" to="12859999">1259-1285</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 82">17 H 82</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Cens et rentes : baux.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15389999" to="16419999">1538-1641</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 83">17 H 83</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Tierces : bail, procès.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16689999" to="17899999">1668-1789</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 84">17 H 84</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Moulin de Chenecières. - Exemption de redevance, droit d'avoir
+                            un four.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="14829999" to="14899999">1482-1489</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 85">17 H 85</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Redevance : procès contre l'occupant.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16269999" to="16629999">1626-1662</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 86">17 H 86</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Redevance : reconnaissance.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="17279999">1727</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 87">17 H 87</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Granges de La Brebis. - Cens : reconnaissances,
+                            bail.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16099999" to="17349999">1609-1734</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 88">17 H 88</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>La Brebis Basse. - Arpentage, bois, lods.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16769999" to="16909999">1676-1690</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 89">17 H 89</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>La Brebis Haute. - Bail, justice, procès.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16059999" to="17329999">1605-1732</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 90">17 H 90</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Archives : monitoire à l'encontre des détenteurs de
+                            titres.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16879999">1687</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 91">17 H 91</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Copie de titres.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16879999">1687</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 92">17 H 92</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Recueil de reconnaissances seigneuriales.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="15269999">1526</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 93-1">17 H 93-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Concerne Semond, La Brebis-Haute et Basse, Chenecières,
+                            Chemin-d'Aisey, Saint-Mard, Chalvosson [commune Villaines-en-Duesmois],
+                            Magny-Lambert, Bellenod-sur-Seine, Tout-y-Faut, La Borde, Plaisance,
+                            Cosne, Meursauges, La Folie, Ampilly-les-Bordes, Jours-lès-Baigneux, La
+                            Roche.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15859999" to="15869999">1585-1586</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 94-1">17 H 94-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Concerne Semond, La Brebis-Haute et Basse, Chenecières,
+                            Chemin-d'Aisey, Saint-Mard, Chalvosson, Magny-Lambert, Tout-y-Faut, La
+                            Borde, Plaisance, Cosne, Meursauges, La Folie,
+                            Ampilly-les-Bordes.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15899999" to="15909999">1589-1590</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 95-1">17 H 95-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Concerne La Brebis-Haute et Basse, Semond, Chenecières,
+                            Saint-Mard, Magny-Lambert, Meursauges, La Borde, La Folie,
+                            Bellenod-sur-Seine, Tout-y-Faut, Plaisance, Ampilly-les-Bordes,
+                            Jours-lès-Baigneux, Chalvosson.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16049999" to="16059999">1604-1605</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 96-1">17 H 96-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Concerne Semond, La Brebis-Haute et Basse, Chenecières,
+                            Saint-Mard, Chalvosson, Magny-Lambert, Bellenod-sur-Seine, Cosne,
+                            Tout-y-Faut, La Borde, Plaisance, Meursauges, La Folie,
+                            Ampilly-les-Bordes, Jours-lès-Baigneux, La Montagne [commune
+                            Bellenod-sur-Seine], La Roche, Châtillon-sur-Seine.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16219999">[1621]</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 97-1">17 H 97-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Concerne Semond, La Brebis Haute et Basse, Chenecières,
+                            Saint-Mard, Chalvosson, Magny-Lambert, Bellenod-sur-Seine, Cosne,
+                            Tout-y-Faut, La Borde, Plaisance, Meursauges, La Folie,
+                            Ampilly-lès-Bordes, Jours-lès-Baigneux, La Montagne, La Roche,
+                            Châtillon-sur-Seine.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16299999">[1629]</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 98-1">17 H 98-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Concerne Saint-Mard, Chalvosson, Bellenod-sur-Seine, Cosne,
+                            Tout-y-Faut, La Borde, Plaisance, Meursauges, La Folie,
+                            Ampilly-les-Bordes, Jours-lès-Baigneux, La Montagne,
+                            Châtillon-sur-Seine.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="99999999">-après 1636</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 99">17 H 99</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Etat des habitants de la « baronnie de Semond », états des
+                            redevances.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16879999" to="16899999">1687-1689</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 100-1">17 H 100-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Concerne La Borde, Plaisance, La Roche, Semond, La Brebis
+                            Haute, La Brebis Basse, Tout-y-Faut, Meursauges, La Folie, Saint-Mard,
+                            Chenecières, Châtillon-sur-Seine, etc.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="17059999" to="17099999">1705-1709</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 101-1">17 H 101-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Concerne Semond, La Brebis, Chenecières, Magny-Lambert, La
+                            Roche, Bellenod-sur-Seine, Tout-y-Faut, La Borde, Plaisance, Meursauges,
+                            La Folie, etc.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="17269999">1726</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 102">17 H 102</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Arpentage de Semond, de La Brebis Haute et
+                            Basse.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16509999">1650</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 103-1">17 H 103-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Série spéciale (Plan 17 H 103).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16019999" to="18009999">XVIIe-XVIIIe
+                                siècles</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 104">17 H 104</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Arpentages de : La Borde, La Folie (avec fragment antérieur),
+                            Meursauges, Plaisance.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="17469999" to="17479999">1746-1747</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 105">17 H 105</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Renonciation par Aimon, chevalier, de Saint-Mard, à tout ce
+                            qu'il réclamait à Meursauges, Quemigny, Semond, Bellenod-sur-Seine,
+                            Chenecières et Magny-Lambert.</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H105/22188full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="11959999">1195</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 106">17 H 106</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Copie de baux (1511-1618).</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16899999">1689</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 107">17 H 107</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Amodiation de la seigneurie de Semond : baux,
+                            mémoires.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15119999" to="17829999">1511-1782</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 108">17 H 108</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Amodiation de la seigneurie de Semond : procès.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16279999" to="17419999">1627-1741</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 109">17 H 109</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Droit de banquet : composition.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16459999">1645</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 110">17 H 110</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Justice : érection d'un « signe patibulaire » et exercice de
+                            la justice criminelle.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="14009999" to="15499999">1400-1549</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 111">17 H 111</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Débornement de la grange : sentence, procès-verbal,
+                            procès.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="14809999" to="14829999">1480-1482</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 112-1">17 H 112-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation à Molosme du village de Semond par Gaudin, sire de
+                            Brémur et son frère Gui, puis donation par l'abbé de Molosme de tout ce
+                            que son abbaye possède à Semond avec la moitié d'un moulin (s.d. et
+                            1146, 2 actes) (PETIT, n° 296)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22261full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22263full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="11469999">1146</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 112-2">17 H 112-2</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Vente de divers prés par Aimon d'Aisey et son frère Hugues, et
+                            de droits d'usage à Vilerius par Gaudin de Brémur et son frère Gui
+                            (1157) (PETIT, n° 363)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22259full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date from="11579999">1157</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 112-3">17 H 112-3</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Abandon de prétention par Pierre de Goe [Goé] sur une terre
+                            (Feschei ou Feschelis) dont un arbitrage juge qu'elle fait partie de la
+                            grange de Semond (1173 et s.d., 2 actes) (PETIT, n° 556)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22248full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22252full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22254full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22256full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="11739999">1173</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 112-4">17 H 112-4</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Accord avec l'évêque d'Autun qui abandonne une terre et tout
+                            ce qu'il possède à Saint-Mard (1173)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22242full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22292full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="11739999">1173</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 112-5">17 H 112-5</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Accord avec l'évêque d'Autun qui abandonne une terre et tout
+                            ce qu'il possède à Saint-Mard (confirmation 1227)</cei:abstract>
+                        <cei:witnessOrig>
+
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22245full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22292full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12279999">1227</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 112-6">17 H 112-6</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Jean, miles de Sanaveo et abandon de prétention
+                            sur le moulin de Choiseau (1197)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22267full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date from="11979999">1197</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 112-7">17 H 112-7</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Saboeth, dame de Bissey (1197)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22271full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date from="11979999">1197</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 112-8">17 H 112-8</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Abandon de droit par Pierre de Goé (1205, 2 actes) (PETIT, n°
+                            1106)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22274full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22276full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12059999">1205</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 112-9">17 H 112-9</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Arrangement avec Pierre de Goé et ses hommes de Saint-Mard au
+                            sujet de terres et de droits sis à Semond, Quemigny, etc. (1208) (PETIT,
+                            n° 1163)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22282full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12089999">1208</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 112-10">17 H 112-10</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Règlement par le duc Eudes III des droits d'usage entre les
+                            moines de Quincy et les Templiers auxquels il a donné le village d'Aisey
+                            (1208) (PETIT, n° 1166)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22279full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12089999">1208</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 112-11">17 H 112-11</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation par Aymon, châtelain de Brémur (1209)</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22286full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12099999">1209</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 112-12">17 H 112-12</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Donation d'une dîme et abandon de querelle par Geoffroy de
+                            Brémur (1233).</cei:abstract>
+
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22289full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="12339999">1233</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 113-1">17 H 113-1</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Concerne aussi Meursauges, Le Loge et Nesle.</cei:abstract>
+                        <!-- unsicher, scheint aber für die drei Bilder zu stimmen -->
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H113/22295full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H113/22297full.jpg"
+                                />
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H113/22300full.jpg"
+                                />
+                            </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:dateRange from="12339999" to="12489999">1233-1248</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 114">17 H 114</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Bois : mise en possession par Eudes IV.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="13159999">1315</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 115">17 H 115</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Bois, doit de coupe : ventes, arpentages.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="16109999" to="17359999">1610-1735</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 116">17 H 116</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>« Les Grands Bois », droit de coupe et d'usage : transaction,
+                            procédures, arpentage.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="17459999" to="17719999">1745-1771</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 117">17 H 117</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Délits forestiers : procès Grappin.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="17259999" to="17409999">1725-1740</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 118">17 H 118</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Cens et rentes : baux.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="15139999" to="17349999">1513-1734</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 119">17 H 119</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Tierces : attribution à Quincy (1323, sceau du bailliage de la
+                            Montagne), bail à ferme.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:dateRange from="13239999" to="16609999">1323-1660</cei:dateRange>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 120">17 H 120</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Dîmes : amodiation de la perception.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16779999">1677</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 121">17 H 121</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Chapelle : procédure contre le curé de
+                            Saint-Mard.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="16879999">1687</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 122">17 H 122</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Anticipations de chemins et de biens communaux.</cei:abstract>
+                        <cei:witnessOrig/>
+                        <cei:issued>
+                            <cei:date value="17349999">1734</cei:date>
+                        </cei:issued>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+        </cei:group>
+    </cei:text>
+</cei:cei>
