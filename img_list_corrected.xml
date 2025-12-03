@@ -203,7 +203,7 @@
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
-                            <cei:date value="12169999">1216</cei:date>
+                            <cei:date valie="12169999">1216</cei:date>
                         </cei:issued>
                     </cei:chDesc>
                 </cei:body>
@@ -271,31 +271,17 @@
             </cei:text>
             <cei:text type="charter">
                 <cei:body>
-                    <cei:idno id="17 H 9-1a">17 H 9-1a</cei:idno>
+                    <cei:idno id="17 H 9-1">17 H 9-1</cei:idno>
                     <cei:chDesc>
                         <cei:abstract>Composition avec Pothières au sujet de la vente d'une
                             redevance (entre 1216 et 1220, 2 actes)</cei:abstract>
+
                         <cei:witnessOrig>
                             <cei:figure>
                                 <cei:graphic
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H9/22120full.jpg"
                                 />
                             </cei:figure>
-                        </cei:witnessOrig>
-                        <cei:issued>
-                            <cei:dateRange from="12169999" to="12209999">entre 1216 et
-                                1220</cei:dateRange>
-                        </cei:issued>
-                    </cei:chDesc>
-                </cei:body>
-            </cei:text>
-            <cei:text type="charter">
-                <cei:body>
-                    <cei:idno id="17 H 9-1b">17 H 9-1b</cei:idno>
-                    <cei:chDesc>
-                        <cei:abstract>Composition avec Pothières au sujet de la vente d'une
-                            redevance (entre 1216 et 1220, 2 actes)</cei:abstract>
-                        <cei:witnessOrig>
                             <cei:figure>
                                 <cei:graphic
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H9/22122full.jpg"
@@ -828,7 +814,7 @@
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
-                            <cei:date value="12309999">1230 ?</cei:date>
+                            <cei:date value="1230">1230 ?</cei:date>
                         </cei:issued>
                     </cei:chDesc>
                 </cei:body>
@@ -2136,34 +2122,19 @@
             </cei:text>
             <cei:text type="charter">
                 <cei:body>
-                    <cei:idno id="17 H 112-1a">17 H 112-1a</cei:idno>
+                    <cei:idno id="17 H 112-1">17 H 112-1</cei:idno>
                     <cei:chDesc>
                         <cei:abstract>Donation à Molosme du village de Semond par Gaudin, sire de
                             Brémur et son frère Gui, puis donation par l'abbé de Molosme de tout ce
                             que son abbaye possède à Semond avec la moitié d'un moulin (s.d. et
                             1146, 2 actes) (PETIT, n° 296)</cei:abstract>
+
                         <cei:witnessOrig>
                             <cei:figure>
                                 <cei:graphic
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22261full.jpg"
                                 />
                             </cei:figure>
-                        </cei:witnessOrig>
-                        <cei:issued>
-                            <cei:date value="11469999">1146</cei:date>
-                        </cei:issued>
-                    </cei:chDesc>
-                </cei:body>
-            </cei:text>
-            <cei:text type="charter">
-                <cei:body>
-                    <cei:idno id="17 H 112-1b">17 H 112-1b</cei:idno>
-                    <cei:chDesc>
-                        <cei:abstract>Donation à Molosme du village de Semond par Gaudin, sire de
-                            Brémur et son frère Gui, puis donation par l'abbé de Molosme de tout ce
-                            que son abbaye possède à Semond avec la moitié d'un moulin (s.d. et
-                            1146, 2 actes) (PETIT, n° 296)</cei:abstract>
-                        <cei:witnessOrig>
                             <cei:figure>
                                 <cei:graphic
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22263full.jpg"
@@ -2192,44 +2163,25 @@
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
-                            <cei:date value="11579999">1157</cei:date>
+                            <cei:date from="11579999">1157</cei:date>
                         </cei:issued>
                     </cei:chDesc>
                 </cei:body>
             </cei:text>
             <cei:text type="charter">
                 <cei:body>
-                    <cei:idno id="17 H 112-3a">17 H 112-3a</cei:idno>
+                    <cei:idno id="17 H 112-3">17 H 112-3</cei:idno>
                     <cei:chDesc>
                         <cei:abstract>Abandon de prétention par Pierre de Goe [Goé] sur une terre
                             (Feschei ou Feschelis) dont un arbitrage juge qu'elle fait partie de la
                             grange de Semond (1173 et s.d., 2 actes) (PETIT, n° 556)</cei:abstract>
+
                         <cei:witnessOrig>
                             <cei:figure>
                                 <cei:graphic
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22248full.jpg"
                                 />
                             </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22256full.jpg"
-                                />
-                            </cei:figure>
-                        </cei:witnessOrig>
-                        <cei:issued>
-                            <cei:date value="11739999">1173</cei:date>
-                        </cei:issued>
-                    </cei:chDesc>
-                </cei:body>
-            </cei:text>
-            <cei:text type="charter">
-                <cei:body>
-                    <cei:idno id="17 H 112-3b">17 H 112-3b</cei:idno>
-                    <cei:chDesc>
-                        <cei:abstract>Abandon de prétention par Pierre de Goe [Goé] sur une terre
-                            (Feschei ou Feschelis) dont un arbitrage juge qu'elle fait partie de la
-                            grange de Semond (1173 et s.d., 2 actes) (PETIT, n° 556)</cei:abstract>
-                        <cei:witnessOrig>
                             <cei:figure>
                                 <cei:graphic
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22252full.jpg"
@@ -2240,21 +2192,6 @@
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22254full.jpg"
                                 />
                             </cei:figure>
-                        </cei:witnessOrig>
-                        <cei:issued>
-                            <cei:date value="11739999">1173</cei:date>
-                        </cei:issued>
-                    </cei:chDesc>
-                </cei:body>
-            </cei:text>
-            <cei:text type="charter">
-                <cei:body>
-                    <cei:idno id="17 H 112-3c">17 H 112-3a</cei:idno>
-                    <cei:chDesc>
-                        <cei:abstract>Abandon de prétention par Pierre de Goe [Goé] sur une terre
-                            (Feschei ou Feschelis) dont un arbitrage juge qu'elle fait partie de la
-                            grange de Semond (1173 et s.d., 2 actes) (PETIT, n° 556)</cei:abstract>
-                        <cei:witnessOrig>
                             <cei:figure>
                                 <cei:graphic
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22256full.jpg"
@@ -2332,7 +2269,7 @@
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
-                            <cei:date value="11979999">1197</cei:date>
+                            <cei:date from="11979999">1197</cei:date>
                         </cei:issued>
                     </cei:chDesc>
                 </cei:body>
@@ -2351,7 +2288,7 @@
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
-                            <cei:date value="11979999">1197</cei:date>
+                            <cei:date from="11979999">1197</cei:date>
                         </cei:issued>
                     </cei:chDesc>
                 </cei:body>

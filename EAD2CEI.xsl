@@ -210,14 +210,10 @@
                 <xsl:for-each select="tokenize($abstract-content, ';')">
                     <xsl:call-template name="charter-content">
                         <xsl:with-param name="abstract-token">
-                            <xsl:choose>
-                                <xsl:when test="normalize-space(.)">
-                                    <xsl:value-of select="normalize-space(.)"/>
-                                </xsl:when>
-                                <xsl:otherwise>
-                                    <xsl:value-of select="$desc_id/unittitle/text()"/>
-                                </xsl:otherwise>
-                            </xsl:choose>
+                            <xsl:if test="normalize-space($desc_id/unittitle/text())">
+                                <xsl:value-of select="concat($desc_id/unittitle/text(), '&#xa;')"/>
+                            </xsl:if>
+                            <xsl:value-of select="normalize-space(.)"/>
                         </xsl:with-param>
                         <xsl:with-param name="desc_id" select="$desc_id"/>
                         <xsl:with-param name="counter" select="position()"/>
@@ -226,7 +222,7 @@
             </xsl:when>
             <xsl:otherwise>
                 <xsl:call-template name="charter-content">
-                    <xsl:with-param name="abstract-token" select="did/unittitle/text()"></xsl:with-param>
+                    <xsl:with-param name="abstract-token" select="$desc_id/unittitle/text()"></xsl:with-param>
                     <xsl:with-param name="desc_id" select="$desc_id"/>
                 </xsl:call-template>
             </xsl:otherwise>
