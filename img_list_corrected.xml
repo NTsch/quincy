@@ -702,23 +702,7 @@
                     <cei:chDesc>
                         <cei:abstract>Contrat de vente (1582).</cei:abstract>
                         <!-- keines der Bilder passt, Bilder auch schon anderen Einträgen zugeordnet -->
-                        <cei:witnessOrig>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22233full.jpg"
-                                />
-                            </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22236full.jpg"
-                                />
-                            </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22237full.jpg"
-                                />
-                            </cei:figure>
-                        </cei:witnessOrig>
+                        <cei:witnessOrig/>
                         <cei:issued>
                             <cei:date value="15829999">1582</cei:date>
                         </cei:issued>
@@ -844,38 +828,7 @@
                     <cei:chDesc>
                         <cei:abstract>Accord avec Gaucher, sire de Pacy (1241).</cei:abstract>
                         <!-- keines der Bilder passt, Bilder schon anderen Einträgen zugeordnet -->
-                        <cei:witnessOrig>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22201full.jpg"
-                                />
-                            </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22206full.jpg"
-                                />
-                            </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22208full.jpg"
-                                />
-                            </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22209full.jpg"
-                                />
-                            </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22212full.jpg"
-                                />
-                            </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22216full.jpg"
-                                />
-                            </cei:figure>
-                        </cei:witnessOrig>
+                        <cei:witnessOrig/>
                         <cei:issued>
                             <cei:date value="12419999">1241</cei:date>
                         </cei:issued>
@@ -1432,18 +1385,7 @@
                             droits d'usage au profit des granges de Massoult et du Loge (1304)
                             (PETIT, n° 5766).</cei:abstract>
                         <!-- keines von beiden passt, Bilder sind auch schon anderen Einträgen zugeordnet -->
-                        <cei:witnessOrig>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H64/22180full.jpg"
-                                />
-                            </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H64/22184full.jpg"
-                                />
-                            </cei:figure>
-                        </cei:witnessOrig>
+                        <cei:witnessOrig/>
                         <cei:issued>
                             <cei:date value="13049999">1304</cei:date>
                         </cei:issued>

@@ -304,22 +304,12 @@
             </cei:text>
             <cei:text type="charter">
                 <cei:body>
-                    <cei:idno id="17 H 8-3">17 H 8-3</cei:idno>
+                    <cei:idno id="17 H 8-3a">17 H 8-3a</cei:idno>
                     <cei:chDesc>
                         <cei:abstract>Acquisitions. donation par Simon de Rochefort et sa femme
                             Béatrix d'une redevance (1216, 3 notifications, dont l'une par le duc
                             Eudes III) (PETIT, n° 1375)</cei:abstract>
                         <cei:witnessOrig>
-
-
-
-
-
-
-
-
-
-
                             <cei:archIdentifier>
                                 <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
                                 <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
@@ -334,11 +324,61 @@
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22115full.jpg"
                                 />
                             </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:dateRange from="11909999" to="12579999">1190-1257</cei:dateRange>
+                        </cei:issued>
+                        <cei:diplomaticAnalysis/>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 8-3b">17 H 8-3b</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Acquisitions. donation par Simon de Rochefort et sa femme
+                            Béatrix d'une redevance (1216, 3 notifications, dont l'une par le duc
+                            Eudes III) (PETIT, n° 1375)</cei:abstract>
+                        <cei:witnessOrig>
+                            <cei:archIdentifier>
+                                <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
+                                <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
+                                <cei:settlement>Dijon</cei:settlement>
+                                <cei:country>France</cei:country>
+                                <cei:ref
+                                    target="https://archives.cotedor.fr/console/ir_ead_visu.php?eadid=FRAD021_000002216&amp;cid=tt2-2"
+                                />
+                            </cei:archIdentifier>
                             <cei:figure>
                                 <cei:graphic
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22117full.jpg"
                                 />
                             </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:dateRange from="11909999" to="12579999">1190-1257</cei:dateRange>
+                        </cei:issued>
+                        <cei:diplomaticAnalysis/>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 8-3c">17 H 8-3c</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Acquisitions. donation par Simon de Rochefort et sa femme
+                            Béatrix d'une redevance (1216, 3 notifications, dont l'une par le duc
+                            Eudes III) (PETIT, n° 1375)</cei:abstract>
+                        <cei:witnessOrig>
+                            <cei:archIdentifier>
+                                <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
+                                <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
+                                <cei:settlement>Dijon</cei:settlement>
+                                <cei:country>France</cei:country>
+                                <cei:ref
+                                    target="https://archives.cotedor.fr/console/ir_ead_visu.php?eadid=FRAD021_000002216&amp;cid=tt2-2"
+                                />
+                            </cei:archIdentifier>
                             <cei:figure>
                                 <cei:graphic
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22119full.jpg"
@@ -359,16 +399,6 @@
                         <cei:abstract>Acquisitions. donation par Geoffroy, fils de Manassès de
                             Brémur (1218)</cei:abstract>
                         <cei:witnessOrig>
-
-
-
-
-
-
-
-
-
-
                             <cei:archIdentifier>
                                 <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
                                 <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
@@ -1066,15 +1096,11 @@
             </cei:text>
             <cei:text type="charter">
                 <cei:body>
-                    <cei:idno id="17 H 24-2">17 H 24-2</cei:idno>
+                    <cei:idno id="17 H 24-2a">17 H 24-2a</cei:idno>
                     <cei:chDesc>
-                        <cei:abstract>Acquisitions. confirmation par le duc Eudes III (1205) (PETIT,
-                            n° 1104). Donation par Guillaume, écuyer, de Nesle, d'un sessus
+                        <cei:abstract>Acquisitions. Donation par Guillaume, écuyer, de Nesle, d'un sessus
                             (1237).</cei:abstract>
                         <cei:witnessOrig>
-
-
-
                             <cei:archIdentifier>
                                 <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
                                 <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
@@ -1089,6 +1115,36 @@
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H24/22151full.jpg"
                                 />
                             </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:dateRange from="11909999" to="12379999">1190-1237</cei:dateRange>
+                        </cei:issued>
+                        <cei:diplomaticAnalysis>
+                            <cei:listBibl>
+                                <cei:bibl>Ms. seicius. Une exploitation rurale, d'après NIERMEYER,
+                                    Mediae latinitatis lexicon minus, Leiden, 1984, p.
+                                    967-968.</cei:bibl>
+                            </cei:listBibl>
+                        </cei:diplomaticAnalysis>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 24-2b">17 H 24-2b</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Acquisitions. confirmation par le duc Eudes III (1205) (PETIT,
+                            n° 1104)</cei:abstract>
+                        <cei:witnessOrig>
+                            <cei:archIdentifier>
+                                <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
+                                <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
+                                <cei:settlement>Dijon</cei:settlement>
+                                <cei:country>France</cei:country>
+                                <cei:ref
+                                    target="https://archives.cotedor.fr/console/ir_ead_visu.php?eadid=FRAD021_000002216&amp;cid=tt2-5"
+                                />
+                            </cei:archIdentifier>
                             <cei:figure>
                                 <cei:graphic
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H24/22154full.jpg"
@@ -1236,9 +1292,6 @@
                     <cei:chDesc>
                         <cei:abstract>Acquisitions et vente. contrat de vente (1582).</cei:abstract>
                         <cei:witnessOrig>
-
-
-
                             <cei:archIdentifier>
                                 <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
                                 <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
@@ -1248,21 +1301,6 @@
                                     target="https://archives.cotedor.fr/console/ir_ead_visu.php?eadid=FRAD021_000002216&amp;cid=tt2-6"
                                 />
                             </cei:archIdentifier>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22233full.jpg"
-                                />
-                            </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22236full.jpg"
-                                />
-                            </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22237full.jpg"
-                                />
-                            </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
                             <cei:dateRange from="12249999" to="15829999">1224-1582</cei:dateRange>
@@ -1476,12 +1514,6 @@
                         <cei:abstract>Acquisitions et accord. accord avec Gaucher, sire de Pacy
                             (1241).</cei:abstract>
                         <cei:witnessOrig>
-
-
-
-
-
-
                             <cei:archIdentifier>
                                 <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
                                 <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
@@ -1491,36 +1523,6 @@
                                     target="https://archives.cotedor.fr/console/ir_ead_visu.php?eadid=FRAD021_000002216&amp;cid=tt2-7"
                                 />
                             </cei:archIdentifier>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22201full.jpg"
-                                />
-                            </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22206full.jpg"
-                                />
-                            </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22208full.jpg"
-                                />
-                            </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22209full.jpg"
-                                />
-                            </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22212full.jpg"
-                                />
-                            </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22216full.jpg"
-                                />
-                            </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
                             <cei:dateRange from="11999999" to="12419999">1199-1241</cei:dateRange>
@@ -2508,8 +2510,6 @@
                             de droits d'usage au profit des granges de Massoult et du Loge (1304)
                             (PETIT, n° 5766).</cei:abstract>
                         <cei:witnessOrig>
-
-
                             <cei:archIdentifier>
                                 <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
                                 <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
@@ -2519,16 +2519,6 @@
                                     target="https://archives.cotedor.fr/console/ir_ead_visu.php?eadid=FRAD021_000002216&amp;cid=tt2-9"
                                 />
                             </cei:archIdentifier>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H64/22180full.jpg"
-                                />
-                            </cei:figure>
-                            <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H64/22184full.jpg"
-                                />
-                            </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
                             <cei:dateRange from="12029999" to="15999999">1202-1599</cei:dateRange>
@@ -2633,17 +2623,12 @@
             </cei:text>
             <cei:text type="charter">
                 <cei:body>
-                    <cei:idno id="17 H 69-1">17 H 69-1</cei:idno>
+                    <cei:idno id="17 H 69-1a">17 H 69-1a</cei:idno>
                     <cei:chDesc>
                         <cei:abstract>Acquisitions (redevance et pâturage). Vente par l'abbé de
                             Saint-Germain d'Auxerre d'une redevance et abandon de dîmes (1198),
                             notification par l'évêque de Langres (1198)</cei:abstract>
                         <cei:witnessOrig>
-
-
-
-
-
                             <cei:archIdentifier>
                                 <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
                                 <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
@@ -2658,6 +2643,32 @@
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H69/22166full.jpg"
                                 />
                             </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="11989999">1198</cei:date>
+                        </cei:issued>
+                        <cei:diplomaticAnalysis>Concerne aussi Griselles et
+                            Laignes.</cei:diplomaticAnalysis>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 69-1b">17 H 69-1b</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Acquisitions (redevance et pâturage). Vente par l'abbé de
+                            Saint-Germain d'Auxerre d'une redevance et abandon de dîmes (1198),
+                            notification par l'évêque de Langres (1198)</cei:abstract>
+                        <cei:witnessOrig>
+                            <cei:archIdentifier>
+                                <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
+                                <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
+                                <cei:settlement>Dijon</cei:settlement>
+                                <cei:country>France</cei:country>
+                                <cei:ref
+                                    target="https://archives.cotedor.fr/console/ir_ead_visu.php?eadid=FRAD021_000002216&amp;cid=tt2-10"
+                                />
+                            </cei:archIdentifier>
                             <cei:figure>
                                 <cei:graphic
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H69/22168full.jpg"
@@ -2674,17 +2685,12 @@
             </cei:text>
             <cei:text type="charter">
                 <cei:body>
-                    <cei:idno id="17 H 69-2">17 H 69-2</cei:idno>
+                    <cei:idno id="17 H 69-2a">17 H 69-2a</cei:idno>
                     <cei:chDesc>
                         <cei:abstract>Acquisitions (redevance et pâturage). arbitrage entre Quincy
                             et Fontenay au sujet du pâturage (1198), ratification par le chapitre
                             général (s.d.).</cei:abstract>
                         <cei:witnessOrig>
-
-
-
-
-
                             <cei:archIdentifier>
                                 <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
                                 <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
@@ -2699,6 +2705,32 @@
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H69/22173full.jpg"
                                 />
                             </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:date value="11989999">1198</cei:date>
+                        </cei:issued>
+                        <cei:diplomaticAnalysis>Concerne aussi Griselles et
+                            Laignes.</cei:diplomaticAnalysis>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 69-2b">17 H 69-2b</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Acquisitions (redevance et pâturage). arbitrage entre Quincy
+                            et Fontenay au sujet du pâturage (1198), ratification par le chapitre
+                            général (s.d.).</cei:abstract>
+                        <cei:witnessOrig>
+                            <cei:archIdentifier>
+                                <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
+                                <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
+                                <cei:settlement>Dijon</cei:settlement>
+                                <cei:country>France</cei:country>
+                                <cei:ref
+                                    target="https://archives.cotedor.fr/console/ir_ead_visu.php?eadid=FRAD021_000002216&amp;cid=tt2-10"
+                                />
+                            </cei:archIdentifier>
                             <cei:figure>
                                 <cei:graphic
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H69/22176full.jpg"
@@ -4266,29 +4298,11 @@
             </cei:text>
             <cei:text type="charter">
                 <cei:body>
-                    <cei:idno id="17 H 112-8">17 H 112-8</cei:idno>
+                    <cei:idno id="17 H 112-8a">17 H 112-8a</cei:idno>
                     <cei:chDesc>
                         <cei:abstract>Acquisition ; accords. abandon de droit par Pierre de Goé
                             (1205, 2 actes) (PETIT, n° 1106)</cei:abstract>
                         <cei:witnessOrig>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                             <cei:archIdentifier>
                                 <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
                                 <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
@@ -4303,9 +4317,33 @@
                                     url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22274full.jpg"
                                 />
                             </cei:figure>
+                        </cei:witnessOrig>
+                        <cei:issued>
+                            <cei:dateRange from="11469999" to="12339999">1146-1233</cei:dateRange>
+                        </cei:issued>
+                        <cei:diplomaticAnalysis/>
+                    </cei:chDesc>
+                </cei:body>
+            </cei:text>
+            <cei:text type="charter">
+                <cei:body>
+                    <cei:idno id="17 H 112-8b">17 H 112-8b</cei:idno>
+                    <cei:chDesc>
+                        <cei:abstract>Acquisition ; accords. abandon de droit par Pierre de Goé
+                            (1205, 2 actes) (PETIT, n° 1106)</cei:abstract>
+                        <cei:witnessOrig>
+                            <cei:archIdentifier>
+                                <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
+                                <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
+                                <cei:settlement>Dijon</cei:settlement>
+                                <cei:country>France</cei:country>
+                                <cei:ref
+                                    target="https://archives.cotedor.fr/console/ir_ead_visu.php?eadid=FRAD021_000002216&amp;cid=tt3-7"
+                                />
+                            </cei:archIdentifier>
                             <cei:figure>
                                 <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22276full.jpg"
+                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22274full.jpg"
                                 />
                             </cei:figure>
                         </cei:witnessOrig>
