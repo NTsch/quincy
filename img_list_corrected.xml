@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
     <cei:teiHeader>
         <cei:fileDesc>
@@ -77,9 +76,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H5/22110full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H5/22110full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -97,9 +94,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H5/22112full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H5/22112full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -145,9 +140,7 @@
                         <cei:witnessOrig>
 
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22126full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22126full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -166,9 +159,7 @@
                         <cei:witnessOrig>
 
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22109full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22109full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -187,23 +178,17 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22115full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22115full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22117full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22117full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22119full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22119full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
-                            <cei:date valie="12169999">1216</cei:date>
+                            <cei:date value="12169999">1216</cei:date>
                         </cei:issued>
                     </cei:chDesc>
                 </cei:body>
@@ -217,9 +202,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22112full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22112full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -237,9 +220,7 @@
                         <cei:witnessOrig>
 
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22121full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22121full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -258,9 +239,7 @@
                         <!-- passt, zweite oben erwähnte Urkunde ist wahrscheinlich die, die auf dem Bild nur von der Rückseite aus zu sehen ist -->
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22127full_.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H8/22127full_.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -278,14 +257,10 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H9/22120full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H9/22120full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H9/22122full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H9/22122full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -304,9 +279,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H9/22115full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H9/22115full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -350,9 +323,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H12/22141full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H12/22141full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -370,9 +341,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H12/22144full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H12/22144full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -390,9 +359,7 @@
                         <cei:witnessOrig>
 
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H12/22147full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H12/22147full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -475,9 +442,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H18/22131full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H18/22131full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -547,9 +512,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H23/22137full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H23/22137full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -567,9 +530,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H23/22135full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H23/22135full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -587,9 +548,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H24/22156full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H24/22156full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -609,14 +568,10 @@
                             (1237).", Bild: https://images.monasterium.net/img/Quincy/ADCO_17H24/22151full.jpg -->
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H24/22151full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H24/22151full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H24/22154full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H24/22154full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -661,9 +616,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22233full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22233full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -680,14 +633,10 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22236full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22236full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22237full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22237full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -702,7 +651,17 @@
                     <cei:chDesc>
                         <cei:abstract>Contrat de vente (1582).</cei:abstract>
                         <!-- keines der Bilder passt, Bilder auch schon anderen Einträgen zugeordnet -->
-                        <cei:witnessOrig/>
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22233full.jpg"/>
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22236full.jpg"/>
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H27/22237full.jpg"/>
+                            </cei:figure>
+                        </cei:witnessOrig>
                         <cei:issued>
                             <cei:date value="15829999">1582</cei:date>
                         </cei:issued>
@@ -743,9 +702,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22201full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22201full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -763,19 +720,13 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22206full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22206full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22208full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22208full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22209full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22209full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -792,13 +743,11 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22212full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22212full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
-                            <cei:date value="1230">1230 ?</cei:date>
+                            <cei:date value="12309999">1230 ?</cei:date>
                         </cei:issued>
                     </cei:chDesc>
                 </cei:body>
@@ -811,9 +760,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22216full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22216full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -828,7 +775,26 @@
                     <cei:chDesc>
                         <cei:abstract>Accord avec Gaucher, sire de Pacy (1241).</cei:abstract>
                         <!-- keines der Bilder passt, Bilder schon anderen Einträgen zugeordnet -->
-                        <cei:witnessOrig/>
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22201full.jpg"/>
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22206full.jpg"/>
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22208full.jpg"/>
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22209full.jpg"/>
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22212full.jpg"/>
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H30/22216full.jpg"/>
+                            </cei:figure>
+                        </cei:witnessOrig>
                         <cei:issued>
                             <cei:date value="12419999">1241</cei:date>
                         </cei:issued>
@@ -946,9 +912,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H38/22223full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H38/22223full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -965,9 +929,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H38/22226full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H38/22226full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -987,9 +949,7 @@
                         <!-- Welche Urkunden ("deux derniers actes") sind hier noch gemeint?-->
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H38/22229full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H38/22229full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -1275,19 +1235,13 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H60/22160full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H60/22160full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H60/22161full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H60/22161full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H60/22162full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H60/22162full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -1345,9 +1299,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H64/22180full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H64/22180full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -1366,9 +1318,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H64/22184full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H64/22184full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -1385,7 +1335,14 @@
                             droits d'usage au profit des granges de Massoult et du Loge (1304)
                             (PETIT, n° 5766).</cei:abstract>
                         <!-- keines von beiden passt, Bilder sind auch schon anderen Einträgen zugeordnet -->
-                        <cei:witnessOrig/>
+                        <cei:witnessOrig>
+                            <cei:figure>
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H64/22180full.jpg"/>
+                            </cei:figure>
+                            <cei:figure>
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H64/22184full.jpg"/>
+                            </cei:figure>
+                        </cei:witnessOrig>
                         <cei:issued>
                             <cei:date value="13049999">1304</cei:date>
                         </cei:issued>
@@ -1452,14 +1409,10 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H69/22166full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H69/22166full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H69/22168full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H69/22168full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -1478,14 +1431,10 @@
 
                             <!-- Datum (1198 und s.d.) vertauscht? -->
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H69/22173full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H69/22173full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H69/22176full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H69/22176full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -1514,8 +1463,7 @@
                         <cei:abstract>Abandon de prétention par le curé de Laignes.</cei:abstract>
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H71/22197full.jpg"/>
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H71/22197full.jpg"/>
 
                             </cei:figure>
                         </cei:witnessOrig>
@@ -1607,8 +1555,7 @@
                             (1195).</cei:abstract>
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H78/22192full.jpg"/>
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H78/22192full.jpg"/>
 
                             </cei:figure>
                         </cei:witnessOrig>
@@ -1976,9 +1923,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H105/22188full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H105/22188full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -2073,14 +2018,10 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22261full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22261full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22263full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22263full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -2099,13 +2040,11 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22259full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22259full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
-                            <cei:date from="11579999">1157</cei:date>
+                            <cei:date value="11579999">1157</cei:date>
                         </cei:issued>
                     </cei:chDesc>
                 </cei:body>
@@ -2120,24 +2059,16 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22248full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22248full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22252full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22252full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22254full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22254full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22256full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22256full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -2155,14 +2086,10 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22242full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22242full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22292full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22292full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -2180,14 +2107,10 @@
                         <cei:witnessOrig>
 
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22245full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22245full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22292full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22292full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -2205,13 +2128,11 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22267full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22267full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
-                            <cei:date from="11979999">1197</cei:date>
+                            <cei:date value="11979999">1197</cei:date>
                         </cei:issued>
                     </cei:chDesc>
                 </cei:body>
@@ -2224,13 +2145,11 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22271full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22271full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
-                            <cei:date from="11979999">1197</cei:date>
+                            <cei:date value="11979999">1197</cei:date>
                         </cei:issued>
                     </cei:chDesc>
                 </cei:body>
@@ -2244,14 +2163,10 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22274full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22274full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22276full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22276full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -2270,9 +2185,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22282full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22282full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -2291,9 +2204,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22279full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22279full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -2310,9 +2221,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22286full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22286full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -2330,9 +2239,7 @@
 
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22289full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H112/22289full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>
@@ -2349,19 +2256,13 @@
                         <!-- unsicher, scheint aber für die drei Bilder zu stimmen -->
                         <cei:witnessOrig>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H113/22295full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H113/22295full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H113/22297full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H113/22297full.jpg"/>
                             </cei:figure>
                             <cei:figure>
-                                <cei:graphic
-                                    url="https://images.monasterium.net/img/Quincy/ADCO_17H113/22300full.jpg"
-                                />
+                                <cei:graphic url="https://images.monasterium.net/img/Quincy/ADCO_17H113/22300full.jpg"/>
                             </cei:figure>
                         </cei:witnessOrig>
                         <cei:issued>

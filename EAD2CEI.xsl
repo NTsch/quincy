@@ -237,19 +237,25 @@
             <!--<cei:front>
                 <xsl:apply-templates select="$desc_id/unittitle"/>
             </cei:front>-->
+            <xsl:variable name="official-id">
+                <xsl:value-of select="$desc_id/unitid"/>
+            </xsl:variable>
+            <xsl:variable name="corrected-id">
+                <xsl:choose>
+                    <xsl:when test="$counter">
+                        <xsl:variable name="id" select="concat($official-id, '-', $counter)"/>
+                        <xsl:attribute name="id" select="$id"/>
+                        <xsl:value-of select="$id"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:attribute name="id" select="$official-id"/>
+                        <xsl:value-of select="$official-id"/>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:variable>
             <cei:body>
-                <cei:idno>
-                    <xsl:choose>
-                        <xsl:when test="$counter">
-                            <xsl:variable name="id" select="concat($desc_id/unitid, '-', $counter)"/>
-                            <xsl:attribute name="id" select="$id"/>
-                            <xsl:value-of select="$id"/>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:attribute name="id" select="$desc_id/unitid"/>
-                            <xsl:value-of select="$desc_id/unitid"/>
-                        </xsl:otherwise>
-                    </xsl:choose>
+                <cei:idno id="{$corrected-id}">
+                    <xsl:value-of select="$corrected-id"/>
                 </cei:idno>
                 <cei:chDesc>
                     <cei:abstract>
@@ -262,6 +268,9 @@
                             </cei:figure>
                         </xsl:for-each>
                         <cei:archIdentifier>
+                            <cei:idno id="{$official-id}">
+                                <xsl:value-of select="$official-id"/>
+                            </cei:idno>
                             <cei:archFond>17 H. – Abbaye de Quincy</cei:archFond>
                             <cei:arch>Archives départementales de la Côte-d'Or</cei:arch>
                             <cei:settlement>Dijon</cei:settlement>
